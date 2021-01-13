@@ -1,89 +1,89 @@
-CONTROLBAR:TooltipSpellBookGeschenkeLoriens_Neu2
-"A hero receives a gift from Lothlórien \n Galadriel (without the Silmaril): Receives a magical piece of jewelry that can recharge her skills faster \n Celeborn: Receives his Silver Blade \n Haldir: Receives a White Arrow stuns all units in wide environment \n Rumil & Orophin: Obtain powerful elven armor \n Thranduil: Strongly increases his reach and sight \n Legolas: Receives Galadriel Bow and his "Hawk Strike" and "Arrow Wind" are improved \n Tauriel: Heals all nearby allied heroes \n Left-click on the icon, then click the desired hero"
+CONTROLBAR:AstuceOutilLivredesPouvoirsPrésentdeLaLorien
+"Un héros reçoit un cadeau de Lothlórien \n Galadriel (avec le Silmaril): Reçoit une amélioratinon magique qui permet de recharger ses compétences plus rapidement \n Celeborn: Reçoit la lame d'argent\n Haldir: Reçoit une flèche blanche qui étourdit toutes les unités dans un large rayon \n Rumil & Orophin: obtiennent une armure elfique puissante \n Thranduil: Sa portée et sa vue augmente fortement \n Legolas: Reçoit l'arc en bois de mallorn de Galadriel ses dégats sont augmentés "attaque du rapace" et "Flèches du vent" sont améliorer \n Tauriel: Guérit tous les héros alliés à proximité \n Clic gauche sur l'icone, puis cliquez sur le héros désiré"
 END
 
-CONTROLBAR:SpecialAbilityElrondYilyaTornado
-"Vilya's Wrath"
+CONTROLBAR:lAbilitéSpétialElrondVilyaTornade
+"La colère de Vilya"
 END
 
-CONTROLBAR:ToolTipSpecialAbilityElrondYilyaTornado
-"Requires: Level 10 \n Elrond uses his Elven Ring of Air, Vilya, to summon a raging whirlwind around himself, which will heavily damage surrounding enemy units while knocking them down and drawing them towards Elrond \n Left click to activate"
+CONTROLBAR:AstuceoutilAbilitéSpétialElrondVilyaTornade
+"Requires: Level 10 \n nockElrond utilise son Anneau elfe de Air, Vilya, pour invoquer un tourbillon déchaîné autour de lui, qui endommagera lourdement les unités ennemies environnantes tout en les attirant vers Elrond\n Click Gauche pour activaté"
 END
 
-CONTROLBAR:SpellBookRadagastRohan
-"Radagast the Brown"
+CONTROLBAR:livredespouvoirsRadagastRohan
+"Radagast le Brun"
 END
 
-CONTROLBAR:TooltipSpellBookRadagastRohan
-"The Istari Radagast the Brown is sent from the Vala Yavanna to assist Rohan for a short time. \n Left click on the icon then left click on accessible area"
+CONTROLBAR:AstuceoutilSlivresdespouvoirsRadagastRohan
+"L’Istari Radagast le Brun est envoyé par la Valar Yavanna pour aider Rohan pendant une courte période. \n Cliquez à gauche sur l’icône puis cliquez à gauche sur la zone accessible."
 END
 
-CONTROLBAR:LindonSpellInfobox
-"Vanguard of Lindon"
+CONTROLBAR:LindonBoîted’infoorthographiés
+"Avant garde du Lindon"
 END
 
-CONTROLBAR:ToolTipLindonSpellInfobox
-"Requires: Army of the Past Ages \n Trains the bodyguards of Gil-Galad \n and the last King of the Noldor in Middle Earth"
+CONTROLBAR:AstuceoutilLindonBoîted’informationsorthographiés
+"Exige: Armée du 1er âge \n Entraîne les gardes du corps de Gil-Galad \n et le dernier roi des Noldors en Terre du Milieu"
 END
 
-OBJECT:TheSilmaril
-"The Silmaril"
+OBJECT:LeSilmaril
+"Le Silmaril"
 END
 
-OBJECT:TheSilmarilDescription
-"If the Silmaril is collected or not after a time, it will be picked up again by his carrier. \n Because the silmarils were sanctified by Varda, \n the units who carrying the Silmaril will be suffer progressive damage."
+OBJECT:SilmarilDescription
+"Si vous trouvez le silmaril ramassez le. Il est symboliser par un diamant blanc sur la minimap \n Seule une unité peut ramasser le Silmaril et le ramener soit a votre forteresse soit au héros qui peut l'obtenir." 
 END
 
-OBJECT:MaglorShadow
-"Maglor the Cursed"
+OBJECT:MaglorOmbre
+"Maglor le Maudit"
 END
 
-OBJECT:DwarvenSummonedCitadelDescription
-"Military Structure \n Train Dwarves of Aglarond \n You can only summon one Citadel in the same game"
+OBJECT:CitadelleNaineinvoquéeDescription
+" Structure Militaire \n Entrainez les nains d'Aglarond \n Vous ne pouvez posséder qu’une citadelle en même temps"
 END
 
-CONTROLBAR:SelectUnitsAglarond
-"Aglarond Bastion"
+CONTROLBAR:SeleciontUnitésAglarond
+"Aglarond Citadelle"
 END
 
-CONTROLBAR:ToolTipSelectUnitsAglarond
-"Aglarond means "The Glittering Caves" in Sindarin,located under The Helm's Deep \n At the end of the War of the Ring, \n Gimli the dwarf returned to Aglarond with many Dwarves of Erebor. Gimli became his Lord"
+CONTROLBAR:AstuceOutilSelectionUnitésAglarond
+"Aglarond signifie "Les cavernes scintillantes" en Sindarin,localisé sous le gouffre de Helm \n A la fin de la guerre de l'anneau, \n Le nain Gimli retourna à Aglarond avec nombres de nains d'Erebor. Gimli devient le seigneur de la cité"
 END
 
-CONTROLBAR:SpellBookThargelionArmy
-"Betrayers of the Quendi"
+CONTROLBAR:livredespouvoirsThargelionArmée
+"Traîtres envers les Quendi"
 END
 
-CONTROLBAR:DainNewLeadershipMithrilMail
-"King Dain's Mithril Mail"
+CONTROLBAR:DainNouveauCharismeCotteDeMailleEnMithril 
+"Roi Daïn cotte de maille en Mithril "
 END
 
-CONTROLBAR:ToolTipDainNewLeadershipMithrilMail
-"Passive Ability \n King Dain recieves his new armor, the armor increases his overall defence to all forms of damage"
+CONTROLBAR:AstuceOutilDainNouveauCharismeCotteDeMailleEnMithril
+"Capacité Passive \n Le Roi Dain reçoit une nouvelle armure, l’armure augmente sa défense globale à toutes les formes de dégâts"
 END
-CONTROLBAR:TooltipSpellBookThargelionArmy
-"Temporarily summon the first chieftain the Easterlings, Ulfang, with his troops \n Left click on the target area"
-END
-
-CONTROLBAR:FloodOarni
-"The Fury of Ossë"
+CONTROLBAR:AstuceOutilLivredesPouvoirsThargelionArmée
+"Invoquer temporairement le premier chef des Orientaux, Ulfang, avec ses troupes \n Cliquez à gauche sur l’icône puis cliquez à gauche sur la zone accessible."
 END
 
-CONTROLBAR:TooltipFloodOarni
-"As a spirit of the sea in the service of Ulmo, Ossë guarded the waters around Middle-earth. \n Ossë is sent by the Orni (spirits of the sea) \n to help the Men of the West. \n Left-click icon then left-click on target area"
+CONTROLBAR:inondationDivine
+"La fureur d’Ossë"
+END
+
+CONTROLBAR:AstuceOutilInondationDivine
+"Appelle un esprit de la mer au service d’Ulmo, Ossë gardien des eaux autou de la Terre du Milieu. \n Ossë est envoyé par les Valars (esprits de la mer) \n pour aidez les hommes de l'Ouest. \n Cliquez à gauche sur l’icône puis cliquez à gauche sur la zone accessible."
 END
 
 CONTROLBAR:SpellBookForestLothlorien
-"Frightful Presence"
+"Présence inquiétante"
 END
 
 CONTROLBAR:TooltipSpellBookForestLothlorien
-"The presence of the White Lady in the Forest of Lothlórien, reduces attack of enemy units by 50% for 15 seconds \n Left click on the desired destination"
+"La présence de la Dame Blanche dans la Forêt de Lothlórien, réduit l’attaque des unités ennemies de 50% pendant 15 secondes \n Cliquez à gauche sur l’icône puis cliquez à gauche sur la zone accessible. 
 END
 
 
 CONTROLBAR:ToolTipBuildMordorAufseher_forHorde_Neu
-"Increases command point limit by 20, of which 10 are permanent. Can be combined with the supervisor \n Left click on the Orc Hordes"
+"Augmente la limite de point de commande de 20, dont 10 sont permanents. Peut être combiné avec le superviseur \n Clique gauche sur les hordes d'orcs choisient"
 END
 
 CONTROLBAR:ToolTipConstructFormenosFortress_wotr
