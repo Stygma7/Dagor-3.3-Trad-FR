@@ -15,7 +15,7 @@ CONTROLBAR:SpellBookRadagastRohan
 END
 
 CONTROLBAR:TooltipSpellBookRadagastRohan
-"L’Istari Radagast le Brun est envoyé par la Valar Yavanna pour aider Rohan pendant une courte période. \n Cliquez à gauche sur l’icône puis cliquez à gauche sur la zone accessible."
+"L'Istari Radagast le Brun est envoyé par la Valar Yavanna pour aider Rohan pendant une courte période. \n Cliquez à gauche sur l’icône puis cliquez à gauche sur la zone accessible."
 END
 
 CONTROLBAR:LindonSpellInfobox
@@ -39,7 +39,7 @@ OBJECT:MaglorShadow
 END
 
 OBJECT:DwarvenSummonedCitadelDescription
-" Structure Militaire \n Entrainez les nains d'Aglarond \n Vous ne pouvez posséder qu’une citadelle en même temps"
+" Structure Militaire \n Entrainez les nains d'Aglarond \n Vous ne pouvez posséder qu'une citadelle en même temps"
 END
 
 CONTROLBAR:SelectUnitsAglarond
@@ -103,7 +103,7 @@ CONTROLBAR:ToolTipConstructTaniquetilFortress_wotr
 END
 
 CONTROLBAR:ToolTipConstructBelegostFortress_wotr
-"Structure Militaire  \n Trains Dwarves from Belegosth and Nogrod \n Donne des améliorations aux héros et aux unités et fournit divers bonus \n Vous ne pouvez construire qu’une forteresse en même temps"
+"Structure Militaire  \n Entrainez les nains de Belegost et de Nogrod \n Donne des améliorations aux héros et aux unités et fournit divers bonus \n Vous ne pouvez construire qu’une forteresse en même temps"
 END
 
 CONTROLBAR:ToolTipConstructAngbandFortress_wotr
@@ -131,7 +131,7 @@ CONTROLBAR:RohanFarmInfobox
 END
 
 CONTROLBAR:ToolTipRohanFarmInfobox
-"Les paysans rohan sont appelés aux armes \n Every time a horde of peasants are trained, \n la Ferme gagne des points d’expérience "
+"Les paysans rohan sont appelés aux armes \n Chaque fois qu’une horde de paysans sont formés, \n la Ferme gagne des points d’expérience "
 END
 
 CONTROLBAR:SpellBookSteppenRohans
@@ -143,7 +143,7 @@ CONTROLBAR:TooltipSpellBookSteppenRohans
 END
 
 CONTROLBAR:RohanHauptmannMount
-"Monté/Démonté"
+"Monté/Descendre"
 END
 
 CONTROLBAR:TooltipRohanHauptmannMount
@@ -167,7 +167,7 @@ CONTROLBAR:LW_Hero_Nori
 END
 
 CONTROLBAR:DwarvenNoriRecruit
-"Recruter le frère de Dori et Ori"
+"Recruter le frère de Dori et Ori "
 END
 
 CONTROLBAR:DwarvenNoriRevive
@@ -191,7 +191,7 @@ CONTROLBAR:SpecialAbilityZwielichtigerGeselle
 END
 
 CONTROLBAR:ToolTipSpecialAbilityZwielichtigerGeselle
-"Pendant 30 secondes, Nori se déplace 25% plus vite et révèle la zone qu’il traverse pendant 20 secondes \n The revealed regions unveil hidden units \n Left click to activate"
+"Pendant 30 secondes, Nori se déplace 25% plus vite et révèle la zone qu’il traverse pendant 20 secondes \n dévoilent les unités cachées \n Left click to activate"
 END
 
 CONTROLBAR:SpecialAbilityNoriMesserwurf
@@ -283,7 +283,7 @@ CONTROLBAR:ToolTipGundabadBolgCharge
 END
 
 CONTROLBAR:GundabadBolgMorgulArrow
-" Flèche de Morgul "
+"Flèche de Morgul"
 END
 
 CONTROLBAR:ToolTipGundabadBolgMorgulArrow
@@ -352,60 +352,60 @@ CONTROLBAR:GundabadBolgHotkey
 END
 
 CONTROLBAR:BolgMount
-"Mount/Dismonut Warg"
+"Mounté/Descendre Warg"
 END
 
 CONTROLBAR:ToolTipBolgMount
-"Bolg mount his Warg"
+"Bolg monte son Warg"
 END
 
 CONTROLBAR:GundabadWargRiderDebuff
-"Infantry Debuff"
+"Infanterie Debuff"
 END
 
 CONTROLBAR:ToolTipGundabadWargRiderDebuff
-"Requires: Level 5 \n All infantry units near the Warg Riders lose armor \n Passive ability"
+"Nécessite: Niveau 5 \n Toutes les unités d’infanterie près des cavaliers Warg perdent leur armure \n Capacité passive"
 END
 
 CONTROLBAR:TooltipWargRiderArmorUpgrade
-"Requires: Level 3 \n Wargs horde gain armor upgrade. \n Passive ability"
+"Nécessite: Niveau 3 \n Les cavaliers Wargs gagne une armure améliorer. \n Capacité passive"
 END
 
 
 CONTROLBAR:SelectUpgradesGundabadFaction
-"Gundabad Units"
+"Unités de Gundabad"
 END
 
 CONTROLBAR:ToolTipSelectUpgradesGundabadFaction
-"Train Wargs and Wargs Riders from Gundabad"
+"Entrainez des Wargs et des cavaliers Wargs de Gundabad"
 END
 
 CONTROLBAR:SpellBookAzogArmyWild
-"Legions of Gundabad"
+"Legions de Gundabad"
 END
 
 CONTROLBAR:TooltipSpellBookAzogArmyWild
-"Calls Legions of Gundabad, \n six hordes of Gundabad Orcs and fouth Attack Trolls, for some time on the battlefield \n Left click on the icon and then click passable area"
+"Invoque les legions de Gundabad, \n 6 unités d'orc de Gundabad ainsi que 4 Trolls d'assaults, de manière temporaire sur le champs de bataille \n clic gauche pour sur l'icone puis cliquez sur zone praticable"
 END
 
 OBJECT:GundabadGeneral
-"Gundabad Captian"
+"Capitaine de Gundabad"
 END
 
 OBJECT:GundabadPikemanHorde
-"Gundabad Lancer"
+"Lancier de Gundabad"
 END
 
 CONTROLBAR:LW_Unit_GundabadPikemanHorde
-"Gundabad Lancer"
+"Lancier de Gundabad"
 END
 
 OBJECT:GundabadOrcSwordsmanHorde
-"Gundabad Warrior"
+"Guerrier de Gundabad"
 END
 
 CONTROLBAR:LW_Unit_GundabadOrcSwordsmanHorde
-"Gundabad Warrior"
+"Guerrier de Gundabad"
 END
 
 CONTROLBAR:VingilotInfoBox
@@ -413,23 +413,23 @@ CONTROLBAR:VingilotInfoBox
 END
 
 CONTROLBAR:ToolTipVingilotInfoBox
-"Eärendil gives friendly units resistance to fear and debuff enemy units \n Ancalagon freezes near Vingilot"
+"Eärendil  donne aux unités alliés une résistance à la peur et debuff unités ennemies \n Ancalagon est paralizé près de Vingilot"
 END
 
 OBJECT:DwarvenBegleiterdesPrinzenHorde
-"Unburnt"
+"Imbrûlé"
 END
 
 OBJECT:DwarvenBegleiterdesPrinzen
-"Unburnt"
+"Imbrûlé"
 END
 
 CONTROLBAR:LW_Unit_DwarvenBegleiterdesPrinzenHorde
-"Unburnt from Ered Luin"
+"Imbrûlé d'Ered Luin"
 END
 
 CONTROLBAR:LW_ToolTip_DwarvenAxtschwingerHorde
-"Unit Type: Elite-infantry \n Strong at melee and vs. heavily armoured units"
+"Type d’unité: infanterie d'élite \n Forte au corps à corps et contre des unités en armures lourdes"
 END
 
 OBJECT:DwarvenGeneral
@@ -437,31 +437,31 @@ OBJECT:DwarvenGeneral
 END
 
 CONTROLBAR:LothlorienSängerinnenInfoBox
-"Lothlórien Singer"
+"Ménéstrel de Caras Galadhon"
 END
 
 CONTROLBAR:ToolTipLothlorienSängerinnenInfoBox
-"The presence of the Singers of Lothlórien on the battlefield gives attributes to warriors"
+"La présence des Ménestrels de Caras Galadhon sur le champ de bataille donne des attributs aux guerriers"
 END
 
 CONTROLBAR:DorwinionWinzerInfoBox
-"Winegrower of Dorwinion"
+"Vigneron du Dorwinion"
 END
 
 CONTROLBAR:ToolTipDorwinionWinzerInfoBox
-"Dorwinion Elves are knowledgeable of nature, enabling them to provide benefits to the structures of the forest"
+"Les elfes du Dorwinion connaissent bien la nature, leur permettant d’apporter des avantages aux structures de la forêt"
 END
 
 CONTROLBAR:SpecialAbilityVorhutMinasMorguls
-"Minas Morgul's Vanguard"
+"Avant garde de Minas Morgul"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityVorhutMinasMorguls
-"The Morgul Knights lose 40% less momentum when they trample enemies that are already weakened by the presence of a ring spirit \n Passive ability"
+"Les chevaliers de Morgul gagnent 40% d’élan quand ils piétinent les ennemis qui sont déjà affaiblis par la présence d’un esprit de anneau \n Capacité passive"
 END
 
 CONTROLBAR:SpecialAbilityMorgulriderKnechtschaft
-"Eternal Slavery"
+"Servitude éternel"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityMorgulriderKnechtschaft
