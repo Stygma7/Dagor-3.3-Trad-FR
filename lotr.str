@@ -131,31 +131,31 @@ CONTROLBAR:RohanFarmInfobox
 END
 
 CONTROLBAR:ToolTipRohanFarmInfobox
-"Rohan peasants are called to arms \n Every time a horde of peasants are trained, \n the Farm gains experience points"
+"Les paysans rohan sont appelés aux armes \n Every time a horde of peasants are trained, \n la Ferme gagne des points d’expérience "
 END
 
 CONTROLBAR:SpellBookSteppenRohans
-"Steppe of Rohan"
+"Steppe du Rohan"
 END
 
 CONTROLBAR:TooltipSpellBookSteppenRohans
-"Changes the area of terrain, creating a steppe on the battlefield. Nearby allied units are 10% faster, deal 10% more damage and cavalry will slow down 50% less when trampling \n Left click on icon then left click on target area"
+"Modifie la texture du terrain, créer une steppe sur le champ de bataille. Les unités alliées sont 10% plus rapides, font 10% de dégâts en plus la cavalerie ralentira 50% de moins lors du piétinement \n Clic gauche sur l’icône puis clic gauche sur la zone ciblé"
 END
 
 CONTROLBAR:RohanHauptmannMount
-"Mount/Dismount"
+"Monté/Démonté"
 END
 
 CONTROLBAR:TooltipRohanHauptmannMount
-"Requires: The Stable has been built \n Left click to travel by horse or \n by foot"
+"Nécessite : Une Écurie construite \n Clic gauche pour voyager à cheval ou \n à pied"
 END
 
 CONTROLBAR:InfoBoxRohanHauptmann
-"Rohan Captain"
+"Capitaine du Rohan"
 END
 
 CONTROLBAR:ToolTipInfoBoxRohanHauptmann
-"The Rohan Captain leads his men into battle and replenishes fallen members \n Passive ability"
+"Le capitaine du Rohan conduit ses hommes dans la bataille et réapprovisionne les membres tombés \n Capacité Passive "
 END
 
 OBJECT:DwarvenNori
@@ -167,11 +167,11 @@ CONTROLBAR:LW_Hero_Nori
 END
 
 CONTROLBAR:DwarvenNoriRecruit
-"Recruit the brother of Dori and Ori"
+"Recruter le frère de Dori et Ori"
 END
 
 CONTROLBAR:DwarvenNoriRevive
-"Revive the fallen Hero, Nori"
+"Faites revivre le héros, Nori tombé au combat"
 END
 
 CONTROLBAR:DwarvenNoriHotkey
@@ -179,51 +179,51 @@ CONTROLBAR:DwarvenNoriHotkey
 END
 
 CONTROLBAR:SpecialAbilityZwergischerWohlstand
-"Dwarven Wealth"
+"Richesse naine"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityZwergischerWohlstand
-"Nori made his home as a rich dwarf in Erebor after his journey with Thorin and now doesn't need to worry about his retirement anymore \n Nori steals treasures to attack their enemies \n Passive ability"
+"Nori a fait sa maison en tant que nain riche à Erebor après son voyage avec Thorin et n’a plus besoin de s’inquiéter de sa retraite \n Nori vole des trésors quand il attaque des ennemis  \n Capacité Passive "
 END
 
 CONTROLBAR:SpecialAbilityZwielichtigerGeselle
-"Shady &Fellow"
+"ombres et esquives"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityZwielichtigerGeselle
-"For 30 seconds Nori moves 25% faster and reveals the area he wanders through for 20 seconds \n The revealed regions unveil hidden units \n Left click to activate"
+"Pendant 30 secondes, Nori se déplace 25% plus vite et révèle la zone qu’il traverse pendant 20 secondes \n The revealed regions unveil hidden units \n Left click to activate"
 END
 
 CONTROLBAR:SpecialAbilityNoriMesserwurf
-"Throwing Knife"
+"Lancer de Couteaux"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityNoriMesserwurf
-"Requires: Level 5 \n Inflicts light damage to an enemy and reveals them for a brief time \n Left click on an enemy"
+"Nécessite: Niveau 5\n Inflige des dégâts légers à un ennemi et les révèle pendant une brève période \n Clic gauche sur un ennemi"
 END
 
 CONTROLBAR:SpecialAbilityNoriHinterhalt
-"Ambush"
+"Embuscade"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityNoriHinterhalt
-"Requires: Level 8 \n Nori quickly moves to the targeted location and surprises nearby enemies by throwing several daggers in a circular radius outwards away from him, damaging surrounding enemy units \n Left click on the designated target area"
+"Nécessite: Niveau 8 \n Nori se déplace rapidement vers l’endroit ciblé et surprend les ennemis à proximité en jetant plusieurs poignards dans un rayon circulaire vers l’extérieur loin de lui, endommageant les unités ennemies environnantes  \n Clic gauche sur la zone cible désignée "
 END
 
 CONTROLBAR:EasterlingKataphraktCharge
-"Sandstorm Charge"
+"Charge tempête de sable"
 END
 
 CONTROLBAR:TooltipEasterlingKataphraktCharge
-"Requires: Level 7 \n Short term +25% speed and half the loss of speed when riding over, but -50% attack \n Left click to activate"
+"Nécessite: Niveau 7 \n Vitesse à court terme +25% et la moitié de la perte de vitesse lors du piétinement, mais -50% dégats subient \n Clic gauche pour activer"
 END
 
 CONTROLBAR:EasterlingGuardCharge
-"Hammer Strikes"
+"Frappes de marteau"
 END
 
 CONTROLBAR:ToolTipEasterlingGuardCharge
-"For 30 seconds, the Black Easterlings deal increased damage against infantry and structures, but reduced damage against cavalry and monsters \n Left click to activate"
+"Pendant 30 secondes, les Orientaux noirs font des dégâts accrus contre l’infanterie et les structures, mais réduit les dégâts contre la cavalerie et les monstres \n Clic gauche pour activer"
 END
 
 CONTROLBAR:SelectUmbarFactionInn
@@ -231,7 +231,7 @@ CONTROLBAR:SelectUmbarFactionInn
 END
 
 CONTROLBAR:ToolTipSelectUmbarFactionInn
-"Recruit Corsairs of Umbar"
+"Recruitez les Corsaires d'Umbar"
 END
 
 CONTROLBAR:SpellBookEredLuinGandalf
@@ -239,79 +239,79 @@ CONTROLBAR:SpellBookEredLuinGandalf
 END
 
 CONTROLBAR:TooltipSpellBookEredLuinGandalf
-"Summons the Grey Pilgrim to the battlefield \n Variation (Need Army of the Past Ages): Celebrimbor returns to help his friends, the Dwarves \n Left click on the icon then left click on accessible area"
+"Invoque temporairement le pèlerin gris sur le champ de bataille \n Variante ( Nécessite : Armée du 1er âge): Celebrimbor revient aider ses amis, les Nains \n Clic gauche sur l’icône puis clic gauche sur la zone accessible"
 END
 
 CONTROLBAR:SpellBookNoldorAman
-"Noldor of the Undying Lands"
+"Invocation des Noldors des terres immortels"
 END
 
 CONTROLBAR:TooltipSpellBookNoldorAman
-"Temporarily summon High King of Noldor of Aman, Finarfin, an army of Noldor Elves from Tirion \n Left click on the target area"
+" Invoquez temporairement le Grand Roi des Noldors d’Aman, Finarfin ainsiqu'une armée d’Elfes Noldors de Tirion \n Clic gauche sur l’icône puis clic gauche sur la zone accessible"
 END
 
 CONTROLBAR:TaurielAmorUpgrade
-"Daughter of Black Forest"
+"Fille de la foret"
 END
 
 CONTROLBAR:ToolTipTaurielAmorUpgrade
-"Requires: Level 5 \n Tauriel gains greater armor \n Passive ability"
+"Nécessite: Niveau 5 \n Tauriel gagne une armure plus résistante \n Capacité passive"
 END
 
 CONTROLBAR:EyeOfSauronInfoBox
-"The Great Eye"
+"L'oeil de Sauron"
 END
 
 CONTROLBAR:ToolTipEyeOfSauronInfoBox
-"The Eye of Sauron generates fear in Enemy units, removes leaderships and reveals hidden units \n Allied units gain +30% damage \n Passive ability"
+"L’Œil de Sauron génère la peur dans les unités ennemies, supprime les bonus et révèle les unités cachées \n Les unités alliées gagnent +30% de dégâts \n Capacité passive"
 END
 
 CONTROLBAR:TolinGaurothSauronInfoBox
-"The Cursed Island of Sirion"
+"L’île maudite de Sirion"
 END
 
 CONTROLBAR:ToolTipTolinGaurothSauronInfoBox
-"It was a Fortress held by Sauron in the First Age, once called Tol Sirion \n Allied units gain 50% damage and 50% armour, \n and reveals hidden units \n Passive ability"
+"C’était une forteresse tenue par Sauron au Premier Âge, autrefois appelée Tol Sirion\n Les unités alliées gagnent 50% de dégâts et 50% d'armure dans la zone proche, \n et révèle des unités cachées \n Capacité passive"
 END
 
 CONTROLBAR:GundabadBolgCharge
-"Relentless Chase"
+"Poursuite incessante"
 END
 
 CONTROLBAR:ToolTipGundabadBolgCharge
-"Requires: Level 3 \n Orcs and Goblins near Bolg gain 30% Speed and 10% Damage \n Left click to activate"
+"Nécessite: Niveau 3 \n Orcs et Gobelins près de Bolg gagnent 30% de vitesse et 10% de dégâts \n Clic gauche pour activer"
 END
 
 CONTROLBAR:GundabadBolgMorgulArrow
-"Morgul Arrow"
+" Flèche de Morgul "
 END
 
 CONTROLBAR:ToolTipGundabadBolgMorgulArrow
-"Requires: Level 5 \n Hero is retained and poisoned \n Only available with archers \n Left click on the icon and then click on the target"
+"Nécessite: Niveau 3\n Le héros est paralysé et empoisonné \n Uniquement disponible en mode archer \n Cliquez à gauche sur l’icône, puis cliquez sur la cible"
 END
 
 CONTROLBAR:GundabadBolgLeadership
-"Chieftain of Gundabad"
+"Chef de Gundabad"
 END
 
 CONTROLBAR:ToolTipGundabadBolgLeadership
-"Requires: Level 6 \n Gundabad Orcs near Bolg gain 50% Damage \n Passive ability"
+"Nécessite: Niveau 6 \n Les orcs de Gundabad près de Bolg gagnent 50% de dégâts\n Capacité passive"
 END
 
 CONTROLBAR:GundabadBolgLeadership2
-"Chieftain of Gundabad"
+"Chef de Gundabad"
 END
 
 CONTROLBAR:ToolTipGundabadBolgLeadership2
-"Requires: Level 6 \n Gundabad Orcs near Bolg gain 50% Damage and 100% Experience \n Passive ability"
+"Nécessite: Niveau 6 \n Les orcs de Gundabad près de Bolg gagnent 50% de dégâts et 100% d'expérience en combat\n Capacité passive"
 END
 
 CONTROLBAR:GundabadBolgCarnage
-"Brutality"
+"Brutalité"
 END
 
 CONTROLBAR:ToolTipGundabadBolgCarnage
-"Requires: Level 7 \n Bolg deals 200% Damage to enemy Heroes \n He also gains +50% Armor and causes knockback with every strike \n Lasts for 20 seconds \n Left click to activate"
+"Nécessite: Niveau 7 \n Bolg inflige 200% de dégâts aux héros ennemis \n Il gagne également +50% armure et provoque un renversement à chaque choque \n Dure 20 secondes \n Clic gauche pour activer"
 END
 
 CONTROLBAR:GundabadBolgGuardSummon
@@ -319,16 +319,16 @@ CONTROLBAR:GundabadBolgGuardSummon
 END
 
 CONTROLBAR:ToolTipGundabadBolgGuardSummon
-"Requires: Level 10 \n Bolg summons three hordes of vicious Gundabad Berserkers \n Left click on icon then left click on location"
+"Nécessite: Niveau 10 \n Bolg invoque trois hordes de Berserkers de Gundabad sanguinaires \n Clic gauche sur l’icône puis clic gauche sur l’emplacement"
 END
 
 
 CONTROLBAR:SelectUpgradesDarkElvesFaction
-"Dark Elves"
+"Elfes noires"
 END
 
 CONTROLBAR:ToolTipSelectUpgradesDarkElvesFaction
-"Train the Dark Elves, followers of Morchant"
+"Entrainez les Elfes Noirs, disciples de Maeglin"
 END
 
 OBJECT:GundabadBolg
@@ -340,11 +340,11 @@ CONTROLBAR:LW_Hero_GundabadBolg
 END
 
 CONTROLBAR:GundabadBolgRecruit
-"Recruit the Orc Chieftain of Gundabad"
+"Recrutez le chef orc de  Gundabad"
 END
 
 CONTROLBAR:GundabadBolgRevive
-"Revive the fallen Hero, Bolg"
+"Faites revivre le héros, Bolg tombé au combat"
 END
 
 CONTROLBAR:GundabadBolgHotkey
