@@ -1,89 +1,89 @@
-CONTROLBAR:AstuceOutilLivredesPouvoirsPrésentdeLaLorien
+CONTROLBAR:TooltipSpellBookGeschenkeLoriens_Neu2
 "Un héros reçoit un cadeau de Lothlórien \n Galadriel (avec le Silmaril): Reçoit une amélioratinon magique qui permet de recharger ses compétences plus rapidement \n Celeborn: Reçoit la lame d'argent\n Haldir: Reçoit une flèche blanche qui étourdit toutes les unités dans un large rayon \n Rumil & Orophin: obtiennent une armure elfique puissante \n Thranduil: Sa portée et sa vue augmente fortement \n Legolas: Reçoit l'arc en bois de mallorn de Galadriel ses dégats sont augmentés "attaque du rapace" et "Flèches du vent" sont améliorer \n Tauriel: Guérit tous les héros alliés à proximité \n Clic gauche sur l'icone, puis cliquez sur le héros désiré"
 END
 
-CONTROLBAR:lAbilitéSpétialElrondVilyaTornade
+CONTROLBAR:SpecialAbilityElrondYilyaTornado
 "La colère de Vilya"
 END
 
-CONTROLBAR:AstuceoutilAbilitéSpétialElrondVilyaTornade
-"Requires: Level 10 \n nockElrond utilise son Anneau elfe de Air, Vilya, pour invoquer un tourbillon déchaîné autour de lui, qui endommagera lourdement les unités ennemies environnantes tout en les attirant vers Elrond\n Click Gauche pour activaté"
+CONTROLBAR:ToolTipSpecialAbilityElrondYilyaTornado
+"Requiers : Level 10 \n nock Elrond utilise son Anneau elfe de Air, Vilya, pour invoquer un tourbillon déchaîné autour de lui, qui endommagera lourdement les unités ennemies environnantes tout en les attirant vers Elrond\n Click Gauche pour activé"
 END
 
-CONTROLBAR:livredespouvoirsRadagastRohan
+CONTROLBAR:SpellBookRadagastRohan
 "Radagast le Brun"
 END
 
-CONTROLBAR:AstuceoutilSlivresdespouvoirsRadagastRohan
+CONTROLBAR:TooltipSpellBookRadagastRohan
 "L’Istari Radagast le Brun est envoyé par la Valar Yavanna pour aider Rohan pendant une courte période. \n Cliquez à gauche sur l’icône puis cliquez à gauche sur la zone accessible."
 END
 
-CONTROLBAR:LindonBoîted’infoorthographiés
+CONTROLBAR:LindonSpellInfobox
 "Avant garde du Lindon"
 END
 
-CONTROLBAR:AstuceoutilLindonBoîted’informationsorthographiés
-"Exige: Armée du 1er âge \n Entraîne les gardes du corps de Gil-Galad \n et le dernier roi des Noldors en Terre du Milieu"
+CONTROLBAR:ToolTipLindonSpellInfobox
+"Exige : Armée du 1er âge \n Entraîne les gardes du corps de Gil-Galad \n et le dernier roi des Noldors en Terre du Milieu"
 END
 
-OBJECT:LeSilmaril
+OBJECT:TheSilmaril
 "Le Silmaril"
 END
 
-OBJECT:SilmarilDescription
-"Si vous trouvez le silmaril ramassez le. Il est symboliser par un diamant blanc sur la minimap \n Seule une unité peut ramasser le Silmaril et le ramener soit a votre forteresse soit au héros qui peut l'obtenir." 
+OBJECT:TheSilmarilDescription
+"Si vous trouvez le silmaril ramassez le. Il est symboliser par un diamant blanc sur la minimap \n Seule une unité peut ramasser le Silmaril et le ramener soit a votre forteresse soit au héros qui peut l'obtenir."
 END
 
-OBJECT:MaglorOmbre
+OBJECT:MaglorShadow
 "Maglor le Maudit"
 END
 
-OBJECT:CitadelleNaineinvoquéeDescription
-" Structure Militaire \n Entrainez les nains d'Aglarond \n Vous ne pouvez posséder qu’une citadelle en même temps"
+OBJECT:DwarvenSummonedCitadelDescription
+"Military Structure \n Train Dwarves of Aglarond \n You can only summon one Citadel in the same game"
 END
 
-CONTROLBAR:SeleciontUnitésAglarond
-"Aglarond Citadelle"
+CONTROLBAR:SelectUnitsAglarond
+"Aglarond Bastion"
 END
 
-CONTROLBAR:AstuceOutilSelectionUnitésAglarond
-"Aglarond signifie "Les cavernes scintillantes" en Sindarin,localisé sous le gouffre de Helm \n A la fin de la guerre de l'anneau, \n Le nain Gimli retourna à Aglarond avec nombres de nains d'Erebor. Gimli devient le seigneur de la cité"
+CONTROLBAR:ToolTipSelectUnitsAglarond
+"Aglarond means "The Glittering Caves" in Sindarin,located under The Helm's Deep \n At the end of the War of the Ring, \n Gimli the dwarf returned to Aglarond with many Dwarves of Erebor. Gimli became his Lord"
 END
 
-CONTROLBAR:livredespouvoirsThargelionArmée
-"Traîtres envers les Quendi"
+CONTROLBAR:SpellBookThargelionArmy
+"Betrayers of the Quendi"
 END
 
-CONTROLBAR:DainNouveauCharismeCotteDeMailleEnMithril 
-"Roi Daïn cotte de maille en Mithril "
+CONTROLBAR:DainNewLeadershipMithrilMail
+"King Dain's Mithril Mail"
 END
 
-CONTROLBAR:AstuceOutilDainNouveauCharismeCotteDeMailleEnMithril
-"Capacité Passive \n Le Roi Dain reçoit une nouvelle armure, l’armure augmente sa défense globale à toutes les formes de dégâts"
+CONTROLBAR:ToolTipDainNewLeadershipMithrilMail
+"Passive Ability \n King Dain recieves his new armor, the armor increases his overall defence to all forms of damage"
 END
-CONTROLBAR:AstuceOutilLivredesPouvoirsThargelionArmée
-"Invoquer temporairement le premier chef des Orientaux, Ulfang, avec ses troupes \n Cliquez à gauche sur l’icône puis cliquez à gauche sur la zone accessible."
-END
-
-CONTROLBAR:inondationDivine
-"La fureur d’Ossë"
+CONTROLBAR:TooltipSpellBookThargelionArmy
+"Temporarily summon the first chieftain the Easterlings, Ulfang, with his troops \n Left click on the target area"
 END
 
-CONTROLBAR:AstuceOutilInondationDivine
-"Appelle un esprit de la mer au service d’Ulmo, Ossë gardien des eaux autou de la Terre du Milieu. \n Ossë est envoyé par les Valars (esprits de la mer) \n pour aidez les hommes de l'Ouest. \n Cliquez à gauche sur l’icône puis cliquez à gauche sur la zone accessible."
+CONTROLBAR:FloodOarni
+"The Fury of Ossë"
+END
+
+CONTROLBAR:TooltipFloodOarni
+"As a spirit of the sea in the service of Ulmo, Ossë guarded the waters around Middle-earth. \n Ossë is sent by the Orni (spirits of the sea) \n to help the Men of the West. \n Left-click icon then left-click on target area"
 END
 
 CONTROLBAR:SpellBookForestLothlorien
-"Présence inquiétante"
+"Frightful Presence"
 END
 
 CONTROLBAR:TooltipSpellBookForestLothlorien
-"La présence de la Dame Blanche dans la Forêt de Lothlórien, réduit l’attaque des unités ennemies de 50% pendant 15 secondes \n Cliquez à gauche sur l’icône puis cliquez à gauche sur la zone accessible. 
+"The presence of the White Lady in the Forest of Lothlórien, reduces attack of enemy units by 50% for 15 seconds \n Left click on the desired destination"
 END
 
 
 CONTROLBAR:ToolTipBuildMordorAufseher_forHorde_Neu
-"Augmente la limite de point de commande de 20, dont 10 sont permanents. Peut être combiné avec le superviseur \n Clique gauche sur les hordes d'orcs choisient"
+"Increases command point limit by 20, of which 10 are permanent. Can be combined with the supervisor \n Left click on the Orc Hordes"
 END
 
 CONTROLBAR:ToolTipConstructFormenosFortress_wotr
