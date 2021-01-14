@@ -28570,19 +28570,19 @@ APT:Replays
 END
 
 APT:CampaignSelectorTab
-"CAMPAIGN"
+"CAMPAGNE"
 END
 
 APT:SkirmishSelectorTab
-"SKIRMISH"
+"ESCARMOUCHE"
 END
 
 APT:HeaderSavedFiles
-"Saved Files"
+"LISTE DES SAUVEGARDES"
 END
 
 APT:HeaderAutoSave
-"Auto Save"
+"Sauvegarde Auto"
 END
 
 APT:NameFile
@@ -28598,7 +28598,7 @@ APT:OverwriteSaveConfirmation
 END
 
 APT:SavingWait
-"Saving..."
+"Sauvegarde..."
 END
 
 APT:SavingWaitOnMultiplayer
@@ -28730,15 +28730,15 @@ APT:HeaderPlayerName
 END
 
 APT:HeaderFaction
-"Army"
+"FACTIONS"
 END
 
 APT:HeaderFactionCaps
-"ARMY"
+"FACTIONS"
 END
 
 APT:HeaderTeam
-"Team"
+"EQUIPE"
 END
 
 APT:HeaderStatus
@@ -29026,7 +29026,7 @@ APT:RefreshNATFailed
 END
 
 APT:RefreshNATSucceeded
-"Firewall detection succeeded."
+"Firewall detection réussi."
 END
 
 APT:WaitForRefreshNATcomplete
@@ -29034,7 +29034,7 @@ APT:WaitForRefreshNATcomplete
 END
 
 GUI:GameSaved
-"Game Saved"
+"Partie sauvegardé"
 END
 
 GUI:ErrorSavingGame
@@ -29946,7 +29946,7 @@ GUI:Back
 END
 
 APT:Back
-"BACK"
+"RETOUR"
 END
 
 GUI:Logout
@@ -29974,15 +29974,15 @@ GUI:Victory
 END
 
 APT:EndVictorious
-"VICTORIOUS"
+"VICTOIRE"
 END
 
 APT:EndDefeat
-"DEFEATED"
+"DEFAITE"
 END
 
 APT:EndGameOver
-"GAME OVER"
+"ECHEC"
 END
 
 GUI:Add
@@ -44955,7 +44955,7 @@ APT:Gondor
 END
 
 APT:Men
-"Men"
+"Hommes"
 END
 
 APT:Wild
@@ -44963,7 +44963,7 @@ APT:Wild
 END
 
 APT:Dwarves
-"Dwarves"
+"Clans Nains"
 END
 
 APT:Rohan
@@ -44995,7 +44995,7 @@ APT:MordorCaps
 END
 
 APT:MenCaps
-"MEN"
+"Hommes"
 END
 
 APT:WildCaps
@@ -45003,7 +45003,7 @@ APT:WildCaps
 END
 
 APT:DwarvesCaps
-"DWARVES"
+"Clans Nains"
 END
 
 APT:ArmyWinPercentages
@@ -104195,7 +104195,7 @@ TOOLTIP:LackLothlorienHeavyArmor
 END
 
 OBJECT:RadagastsSpäher
-"Radagasts Scouts"
+"Espion de Radagast"
 END
 
 CONTROLBAR:GolfimbulHerrscherGundabads
