@@ -39,95 +39,95 @@ OBJECT:MaglorShadow
 END
 
 OBJECT:DwarvenSummonedCitadelDescription
-"Military Structure \n Train Dwarves of Aglarond \n You can only summon one Citadel in the same game"
+" Structure Militaire \n Entrainez les nains d'Aglarond \n Vous ne pouvez posséder qu’une citadelle en même temps"
 END
 
 CONTROLBAR:SelectUnitsAglarond
-"Aglarond Bastion"
+"Aglarond Citadelle"
 END
 
 CONTROLBAR:ToolTipSelectUnitsAglarond
-"Aglarond means "The Glittering Caves" in Sindarin,located under The Helm's Deep \n At the end of the War of the Ring, \n Gimli the dwarf returned to Aglarond with many Dwarves of Erebor. Gimli became his Lord"
+"Aglarond signifie "Les cavernes scintillantes" en Sindarin,localisé sous le gouffre de Helm \n A la fin de la guerre de l'anneau, \n Le nain Gimli retourna à Aglarond avec nombres de nains d'Erebor. Gimli devient le seigneur de la cité"
 END
 
 CONTROLBAR:SpellBookThargelionArmy
-"Betrayers of the Quendi"
+"Traîtres envers les Quendi"
 END
 
 CONTROLBAR:DainNewLeadershipMithrilMail
-"King Dain's Mithril Mail"
+"Roi Daïn cotte de maille en Mithril "
 END
 
 CONTROLBAR:ToolTipDainNewLeadershipMithrilMail
-"Passive Ability \n King Dain recieves his new armor, the armor increases his overall defence to all forms of damage"
+"Capacité Passive \n Le Roi Dain reçoit une nouvelle armure, l’armure augmente sa défense globale à toutes les formes de dégâts"
 END
 CONTROLBAR:TooltipSpellBookThargelionArmy
-"Temporarily summon the first chieftain the Easterlings, Ulfang, with his troops \n Left click on the target area"
+"Invoquer temporairement le premier chef des Orientaux, Ulfang, avec ses troupes \n Cliquez à gauche sur l’icône puis cliquez à gauche sur la zone accessible."
 END
 
 CONTROLBAR:FloodOarni
-"The Fury of Ossë"
+"La fureur d’Ossë"
 END
 
 CONTROLBAR:TooltipFloodOarni
-"As a spirit of the sea in the service of Ulmo, Ossë guarded the waters around Middle-earth. \n Ossë is sent by the Orni (spirits of the sea) \n to help the Men of the West. \n Left-click icon then left-click on target area"
+"Appelle un esprit de la mer au service d’Ulmo, Ossë gardien des eaux autou de la Terre du Milieu. \n Ossë est envoyé par les Valars (esprits de la mer) \n pour aidez les hommes de l'Ouest. \n Cliquez à gauche sur l’icône puis cliquez à gauche sur la zone accessible."
 END
 
 CONTROLBAR:SpellBookForestLothlorien
-"Frightful Presence"
+"Présence inquiétante"
 END
 
 CONTROLBAR:TooltipSpellBookForestLothlorien
-"The presence of the White Lady in the Forest of Lothlórien, reduces attack of enemy units by 50% for 15 seconds \n Left click on the desired destination"
+"La présence de la Dame Blanche dans la Forêt de Lothlórien, réduit l’attaque des unités ennemies de 50% pendant 15 secondes \n Cliquez à gauche sur l’icône puis cliquez à gauche sur la zone accessible."
 END
 
 
 CONTROLBAR:ToolTipBuildMordorAufseher_forHorde_Neu
-"Increases command point limit by 20, of which 10 are permanent. Can be combined with the supervisor \n Left click on the Orc Hordes"
+"Augmente la limite de point de commande de 20, dont 10 sont permanents. Peut être combiné avec le superviseur \n Clique gauche sur les hordes d'orcs choisient"
 END
 
 CONTROLBAR:ToolTipConstructFormenosFortress_wotr
-"Military Structure \n Trains Noldor from Formenos \n Gives gifts to Heroes and Units and provides various bonuses \n You can only build 1 Fortress in the same game"
+"Structure Militaire \n Entrainez les Noldors de Formenos \n Donne des améliorations aux héros et aux unités et fournit divers bonus \n Vous ne pouvez construire qu’une forteresse en même temps"
 END
 
 CONTROLBAR:ToolTipConstructMenegrothFortress_wotr
-"Military Structure \n Trains Sindar Elves from the forest of Belerian \n Gives gifts to Heroes and Units and provides various bonuses \n You can only build 1 Fortress in the same game"
+"Structure Militaire \n Entrainez les elfes Sindar de Menegroth \n Donne des améliorations aux héros et aux unités et fournit divers bonus \n Vous ne pouvez construire qu’une forteresse en même temps"
 END
 
 CONTROLBAR:ToolTipConstructDorthonionFortress_wotr
-"Military Structure \n Trains Men from Tol Galen \n Gives gifts to Heroes and Units and provides various bonuses \n You can only build 1 Fortress in the same game"
+"Structure Militaire  \n Entrainez les hommes de Tol Galen \n Donne des améliorations aux héros et aux unités et fournit divers bonus \n Vous ne pouvez construire qu’une forteresse en même temps"
 END
 
 CONTROLBAR:ToolTipConstructTaniquetilFortress_wotr
-"Military Structure \n Trains Vanyar Elves from Aman \n Gives gifts to Heroes and Units and provides various bonuses \n You can only build 10 barracks in the same game"
+"Structure Militaire  \n Entrainez les elfes Vanyar d'Aman \n Donne des améliorations aux héros et aux unités et fournit divers bonus \n Vous ne pouvez construire qu’une forteresse en même temps"
 END
 
 CONTROLBAR:ToolTipConstructBelegostFortress_wotr
-"Military Structure \n Trains Dwarves from Belegosth and Nogrod \n Gives gifts to Heroes and Units and provides various bonuses \n You can only build 1 Fortress in the same game"
+"Structure Militaire  \n Trains Dwarves from Belegosth and Nogrod \n Donne des améliorations aux héros et aux unités et fournit divers bonus \n Vous ne pouvez construire qu’une forteresse en même temps"
 END
 
 CONTROLBAR:ToolTipConstructAngbandFortress_wotr
-"Military Structure \n Trains Dragons from Angband \n Gives gifts to Heroes and Units and provides various bonuses \n You can only build 1 Fortress in the same game"
+"Structure Militaire  \n Entrainez les grands Dragons d'Angband \n Donne des améliorations aux héros et aux unités et fournit divers bonus \n Vous ne pouvez construire qu’une forteresse en même temps"
 END
 
 CONTROLBAR:ToolTipConstructAngbandThangorodrim_wotr
-"Military Structure \n Trains Balrogs and Dragons from Angband \n System upgrade of Balrogs is linked to this structure \n You can only build one Volcano in the same game"
+"Structure Militaire \n Entrainez les Balrogs et Dragons d'Angband \n La mise à niveau du système de Balrogs est liée à cette structure \n You can only build one Volcano in the same game"
 END
 
 CONTROLBAR:ToolTipConstructTolinGaurhothFortress_wotr
-"Military Structure \n Trains Wolfs and Vampires from Tol-in-Gaurhoth \n Gives gifts to Heroes and Units and provides various bonuses \n You can only build 1 Fortress in the same game"
+"Structure Militaire \n Entrainez les loups-garoux et les vampires de Tol-in-Gaurhoth \n Donne des améliorations aux héros et aux unités et fournit divers bonus \n Vous ne pouvez construire qu’une forteresse en même temps"
 END
 
 CONTROLBAR:ConstructUnderworldPortal_wotr
-"Build Underworld Portal"
+"Invoquez un portail du monde ténèbreux"
 END
 
 CONTROLBAR:ToolTipConstructUnderworldPortal_wotr
-"Military Structure \n Trains Evil Spirits from the Underworld \n Gives gifts to Heroes and Units and provides various bonuses \n You can only build one Portal in the same game"
+"Structure Militaire \n Entrainez les esprits maléfiques du monde ténèbreux \n Donne des améliorations aux héros et aux unités et fournit divers bonus \n Vous ne pouvez construire qu’une forteresse en même temps"
 END
 
 CONTROLBAR:RohanFarmInfobox
-"To Arms"
+"Aux armes"
 END
 
 CONTROLBAR:ToolTipRohanFarmInfobox
