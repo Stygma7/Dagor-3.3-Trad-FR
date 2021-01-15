@@ -7502,7 +7502,7 @@ CONTROLBAR:GasthausGhanBuriGhanRevive
 END
 
 INI:FactionEvilMen
-"Harad"
+"Orientaux"
 END
 
 TOOLTIP:LackRohanForgedBladesandAxes
@@ -33112,7 +33112,7 @@ INI:FactionRohan
 END
 
 INI:FactionElves
-"Lothlórien"
+"Elfes Sylvains"
 END
 
 INI:FactionImladris
@@ -33120,7 +33120,7 @@ INI:FactionImladris
 END
 
 INI:FactionDwarves
-"Dwarves"
+"Clans Nains"
 END
 
 INI:FactionMordor
@@ -33132,7 +33132,7 @@ INI:FactionIsengard
 END
 
 INI:FactionWild
-"Goblins"
+"Gobelins"
 END
 
 SIDE:Men
@@ -33144,7 +33144,7 @@ SIDE:Rohan
 END
 
 SIDE:Elves
-"Lothlórien"
+"Elfes Sylvains"
 END
 
 SIDE:Imladris
@@ -33152,7 +33152,7 @@ SIDE:Imladris
 END
 
 SIDE:Dwarves
-"Dwarves"
+"Clans Nains"
 END
 
 SIDE:Mordor
@@ -33164,7 +33164,7 @@ SIDE:Isengard
 END
 
 SIDE:Wild
-"Goblins"
+"Gobelins"
 END
 
 SIDE:Civilian
@@ -33176,7 +33176,7 @@ SIDE:Neutral
 END
 
 SIDE:Observer
-"Observer"
+"Observateur"
 END
 
 TOOLTIP:Skirmish/tooltipMordor
