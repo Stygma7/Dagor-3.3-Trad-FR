@@ -39,7 +39,7 @@ OBJECT:MaglorShadow
 END
 
 OBJECT:DwarvenSummonedCitadelDescription
-" Structure Militaire \n Entrainez les nains d'Aglarond \n Vous ne pouvez posséder qu'une citadelle en même temps"
+"Structure Militaire \n Entrainez les nains d'Aglarond \n Vous ne pouvez posséder qu'une citadelle en même temps"
 END
 
 CONTROLBAR:SelectUnitsAglarond
@@ -187,7 +187,7 @@ CONTROLBAR:ToolTipSpecialAbilityZwergischerWohlstand
 END
 
 CONTROLBAR:SpecialAbilityZwielichtigerGeselle
-"ombres et esquives"
+"Ombres et esquives"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityZwielichtigerGeselle
@@ -315,7 +315,7 @@ CONTROLBAR:ToolTipGundabadBolgCarnage
 END
 
 CONTROLBAR:GundabadBolgGuardSummon
-"Gundabad Berserkers"
+"Berserkers de Gundabad"
 END
 
 CONTROLBAR:ToolTipGundabadBolgGuardSummon
@@ -344,7 +344,7 @@ CONTROLBAR:GundabadBolgRecruit
 END
 
 CONTROLBAR:GundabadBolgRevive
-"Faites revivre le héros, Bolg tombé au combat"
+"Faites revivre le héros Bolg tombé au combat"
 END
 
 CONTROLBAR:GundabadBolgHotkey
@@ -413,7 +413,7 @@ CONTROLBAR:VingilotInfoBox
 END
 
 CONTROLBAR:ToolTipVingilotInfoBox
-"Eärendil  donne aux unités alliés une résistance à la peur et debuff unités ennemies \n Ancalagon est paralizé près de Vingilot"
+"Eärendil donne aux unités alliés une résistance à la peur et debuff unités ennemies \n Ancalagon est paralizé près de Vingilot"
 END
 
 OBJECT:DwarvenBegleiterdesPrinzenHorde
@@ -465,35 +465,35 @@ CONTROLBAR:SpecialAbilityMorgulriderKnechtschaft
 END
 
 CONTROLBAR:ToolTipSpecialAbilityMorgulriderKnechtschaft
-"Requires: Level 6 \n The Morgul Knights will return as spirits of the Shadow World if they die \n Passive ability"
+"Requiers: Niveau 6 \n Les chevaliers de Morgul vont revenir en tant qu'Esprits du Monde des Ombres s'ils meurent \n Capacité passive"
 END
 
 CONTROLBAR:LW_ToolTip_SupportHero
-"Hero"
+"Héros"
 END
 
 CONTROLBAR:LW_ToolTipBuild_SupportHero
-"Unit Type: Hero\n"
+"Type d'unité : Héros\n"
 END
 
 CONTROLBAR:LW_ToolTip_LeaderHero
-"Hero Army Leader"
+"Chef d'armée des héros"
 END
 
 CONTROLBAR:LW_ToolTipBuild_LeaderHero
-"Hero Army Leader\n"
+"Chef d'armée des héros\n"
 END
 
 CONTROLBAR:LW_ToolTip_DwarvenGuardianHorde
-"\nUnit Type: Elite Infantry\nStrong vs. Pikemen"
+"\nType d'unité : Infanterie d'élite\nForts contre les piquiers"
 END
 
 CONTROLBAR:SpecialAbilityZwergischeKampfkunst
-"Dwarven War Master&y"
+"Maître de guerre nain&y"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityZwergischeKampfkunst
-"The Arkenguard cause +50% more damage for 15 seconds, ignore heavy armor and can not be knocked down or trampled \n Left click to activate"
+"Les gardes de l'Arkenstone infligent 50% de dégats en plus, ignorent les armures lourdes et ne peuvent pas être renversés ou piétinés\n Clic gauche pour activer"
 END
 
 OBJECT:DwarvenNarin
@@ -505,47 +505,48 @@ CONTROLBAR:LW_ToolTip_DwarvenNarin
 END
 
 CONTROLBAR:DwarvenNarinRecruit
-"Recruit Dain's Messenger"
+"Recruter le messager de Dain"
 END
 
 CONTROLBAR:DwarvenNarinRevive
-"Revive the fallen hero Narin"
+"Faites revivre le héros Narin tombé au combat"
 END
 
 CONTROLBAR:DwarvenNarinHotkey
-"Na&rin"
+"Narin"
 END
 
 CONTROLBAR:SpecialAbilityNarinDainsBote
-"Dain's &Messenger"
+"Messager de Dain"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityNarinDainsBote
-"Nearby Heroes, Heroic Units and Elite Units gain +25% armor and gather experience 50% faster \n The effect persists for 30 seconds after Narin has their vicinity \n The ability can be activated to temporarily give Narin +35% speed \n Left click to activate"
+"Les héros, unités héroïques et unités d'élite à proximité gagnent 25% d'armure en plus et obtiennent de l'expérience 50% plus rapidement \n L'effet persiste pendant 30 secondes tant que Narin est à proximité \n 
+La capacité peut être activée pour donner temporairement à Narin 35% de vitesse en plus \n Clic gauche pour activer"
 END
 
 CONTROLBAR:SpecialAbilityNarinKampfbefehl
-"Battle Com&mand"
+"Commandement de bataille"
 END
 
 CONTROLBAR:ToolSpecialAbilityNarinKampfbefehl
-"Requires: Level 3 \n All Ram Riders in target area gain +35% damage and armor for 30 seconds, but have their movement speed halved \n If Narin is within the target area, the bonus also affects him \n Left click on the designated area"
+"Requiers: Niveau 3 \n Tous les chevaucheurs de béliers ciblés infligent 35% de dégats en plus et gagnent 35% d'armure pendant 30 secondes, mais voient leur vitesse divisée par deux \n Si Narin se trouve dans la zone ciblée, le bonus l'affecte également \n Clic gauche dans la zone désignée"
 END
 
 CONTROLBAR:SpecialAbilityNarinWaffenstillstand
-"&Ceasefire"
+"Cessez-le-feu"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityNarinWaffenstillstand
-"Requires: Level 6 \n Narin negotiates a ceasefire \n For 30 seconds the designated enemy hero or monster can not be attacked or attack, and any abilities cast during the ceasefire will take twice as long to reload \n Left click on an enemy hero or monster"
+"Requiert: Niveau 6 \n Narin négocie pour faire cesser le feu \n Pendant 30 secondes, le héros ou l'unité ennemi désigné ne peut pas être attaqué ou attaquer, et toute capacité lancée pendant le cessez-le-feu prendra deux fois plus de temps à se recharger. \n Clic gauche sur un héros ou une unité ennemi"
 END
 
 CONTROLBAR:SpecialAbilityNarinAllianz
-"Al&liance"
+"Alliance"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityNarinAllianz
-"Requires: Level 10 \n Narin sends a raven to promise an allied hero his support \n The designated hero doesn't take any damage for 10 seconds \n Ability may be used across the whole battlefield \n Left click on the designated hero"
+"Requiert: Niveau 10 \n Narin envoie un corbeau pour soutenir un héros allié \n Le héros désigné ne prendra aucun dégât pendant 10 secondes \n La capacité peut être utilisée sur tout le champ de bataille \n Clic gauche sur le héros designé"
 END
 
 CONTROLBAR:ToggleStanceBattleThranduil
@@ -589,11 +590,11 @@ CONTROLBAR:LW_Hero_Helegwen
 END
 
 CONTROLBAR:AngmarHelegwenRecruit
-"Recruit Angmar's greatest archer"
+"Recruter la meilleure archère d'Angmar"
 END
 
 CONTROLBAR:AngmarHelegwenRevive
-"Revive the fallen hero Helegwen"
+"Faites revivre l'héroïne Helegwen tombée au combat"
 END
 
 CONTROLBAR:AngmarHelegwenHotkey
@@ -601,7 +602,7 @@ CONTROLBAR:AngmarHelegwenHotkey
 END
 
 CONTROLBAR:ToggleStanceBattleHelegwen
-"Steel Arrows"
+"Flèches d'acier"
 END
 
 CONTROLBAR:ToolTipToggleStanceBattleHelegwen
@@ -28730,15 +28731,15 @@ APT:HeaderPlayerName
 END
 
 APT:HeaderFaction
-"FACTIONS"
+"Factions"
 END
 
 APT:HeaderFactionCaps
-"FACTIONS"
+"Factions"
 END
 
 APT:HeaderTeam
-"EQUIPE"
+"Equipe"
 END
 
 APT:HeaderStatus
@@ -33088,11 +33089,11 @@ INI:MissingDisplayName
 END
 
 INI:FactionDefault
-"Default Army"
+"Armée par défaut"
 END
 
 INI:FactionObserver
-"Observer"
+"Spectateur"
 END
 
 INI:FactionCivilian
@@ -33176,7 +33177,7 @@ SIDE:Neutral
 END
 
 SIDE:Observer
-"Observateur"
+"Spectateur"
 END
 
 TOOLTIP:Skirmish/tooltipMordor
