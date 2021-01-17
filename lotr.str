@@ -602,7 +602,7 @@ CONTROLBAR:AngmarHelegwenHotkey
 END
 
 CONTROLBAR:ToggleStanceBattleHelegwen
-"Flèches d'acier"
+"Steel Arrows"
 END
 
 CONTROLBAR:ToolTipToggleStanceBattleHelegwen
@@ -626,43 +626,43 @@ CONTROLBAR:ToolTipToggleStanceHoldGroundHelegwen
 END
 
 CONTROLBAR:SpecialAbilityHelegwenSalve
-"Mulitsho&t"
+"Tir multiple"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityHelegwenSalve
-"Requires: Level 3 \n Helegwen shoots a salvo of arrows, applying the effects of her chosen arrow type to all enemies in the area \n Left click on target area"
+"Requiert: Niveau 3 \n Helegwen tire une salve de flèches, applicant les effets du type de flèche choisi à tous les ennemis dans la zone \n Clic gauche sur la zone ciblée"
 END
 
 CONTROLBAR:SpecialAbilityHelegwenFrostregen
-"Frost Arrow &Rain"
+"Pluie de flèches gelées"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityHelegwenFrostregen
-"Requires: Level 5 \n Helegwen orders a barrage of Frost Arrows on target area \n Enemy units and Monsters in the target area are frozen for 10 seconds \n Heroes are slowed down by 50% \n Buildings are disabled and can't attack for 30 seconds \n Left click on target area"
+"Requiert: Niveau 5 \n Helegwen produit un barrage de flèches gelées sur la zone ciblée \n Les unités ennemis et les monstres ciblés sont gelés pendant 10 secondes \n Les héros sont ralentis à 50% \n Les bâtiments sont désactivés et ne peuvent plus attaquer pendant 30 secondes \n Clic gauche sur la zone ciblée"
 END
 
 CONTROLBAR:SpecialAbilityHelegwenEisbarriere
-"I&ce Barrier"
+"Barrière de glace"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityHelegwenEisbarriere
-"Requires: Level 7 \n The sorcerers of Angmar protect Helegwen with a wall of ice which persists for 30 seconds, but can be destroyed \n Left click to activate"
+"Requiert: Niveau 7 \n Les sorciers d'Angmar protègent Helegwen avec un mur de glace persistant durant 30 secondes, mais pouvant être détruit \n Clic gauche pour activer"
 END
 
 CONTROLBAR:SpecialAbilityHelegwenKunde
-"Whispers of the N&orthwind"
+"Murmures du Vent du Nord"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityHelegwenKunde
-"Requires: Level 9 \n Helegwen gains thripled vision range and moves 30% faster for 30 seconds \n While moving, she leaves behind a trail of snow that slows enemies \n Left click to activate"
+"Requiert: Niveau 9 \n Helegwen gagne un champ de vision triplé et se déplace 30% plus rapidement durant 30 secondes \n En se déplaçant, elle laisse derrière elle une trainée de neige ralentissant les ennemis \n Clic gauche pour activer"
 END
 
 CONTROLBAR:SpecialAbilityGabedesWinters
-"Gift of Winter"
+"Cadeau de l'Hiver"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityGabedesWinters
-"Requires: Level 10 \n Helegwen's Freezing Arrows slow enemies twice as much \n The effect of the Ice Arrows against buildings now lasts for 15 seconds \n Also improves the effects of Multishot \n The damage bonus by Frozen Arrows and Ice Ammunition is doubled for all units of Angmar \n \n Passive ability"
+"Requiert: Niveau 10 \n Les flèches gelées d'Helegwen ralentissent 2 fois plus les ennemis \n L'effet des flèches de glace sur les bâtiments persiste désormais pendant 15 secondes \n Améliore également l'effet du Tir multiple \n Le bonus de dégâts des flèches gelées et des flèches de glace est doublé pour toutes les unités d'Angmar \n \n Capacité passive"
 END
 
 CONTROLBAR:WindsOfProtection
