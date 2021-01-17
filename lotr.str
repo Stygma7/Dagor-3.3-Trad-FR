@@ -465,7 +465,7 @@ CONTROLBAR:SpecialAbilityMorgulriderKnechtschaft
 END
 
 CONTROLBAR:ToolTipSpecialAbilityMorgulriderKnechtschaft
-"Requiers: Niveau 6 \n Les chevaliers de Morgul vont revenir en tant qu'Esprits du Monde des Ombres s'ils meurent \n Capacité passive"
+"Nécessite: Niveau 6 \n Les chevaliers de Morgul vont revenir en tant qu'Esprits du Monde des Ombres s'ils meurent \n Capacité passive"
 END
 
 CONTROLBAR:LW_ToolTip_SupportHero
@@ -530,7 +530,7 @@ CONTROLBAR:SpecialAbilityNarinKampfbefehl
 END
 
 CONTROLBAR:ToolSpecialAbilityNarinKampfbefehl
-"Requiers: Niveau 3 \n Tous les chevaucheurs de béliers ciblés infligent 35% de dégats en plus et gagnent 35% d'armure pendant 30 secondes, mais voient leur vitesse divisée par deux \n Si Narin se trouve dans la zone ciblée, le bonus l'affecte également \n Clic gauche dans la zone désignée"
+"Nécessite: Niveau 3 \n Tous les chevaucheurs de béliers ciblés infligent 35% de dégats en plus et gagnent 35% d'armure pendant 30 secondes, mais voient leur vitesse divisée par deux \n Si Narin se trouve dans la zone ciblée, le bonus l'affecte également \n Clic gauche dans la zone désignée"
 END
 
 CONTROLBAR:SpecialAbilityNarinWaffenstillstand
@@ -538,7 +538,7 @@ CONTROLBAR:SpecialAbilityNarinWaffenstillstand
 END
 
 CONTROLBAR:ToolTipSpecialAbilityNarinWaffenstillstand
-"Requiert: Niveau 6 \n Narin négocie pour faire cesser le feu \n Pendant 30 secondes, le héros ou l'unité ennemi désigné ne peut pas être attaqué ou attaquer, et toute capacité lancée pendant le cessez-le-feu prendra deux fois plus de temps à se recharger. \n Clic gauche sur un héros ou une unité ennemi"
+"Nécessite: Niveau 6 \n Narin négocie pour faire cesser le feu \n Pendant 30 secondes, le héros ou l'unité ennemi désigné ne peut pas être attaqué ou attaquer, et toute capacité lancée pendant le cessez-le-feu prendra deux fois plus de temps à se recharger. \n Clic gauche sur un héros ou une unité ennemi"
 END
 
 CONTROLBAR:SpecialAbilityNarinAllianz
@@ -598,7 +598,7 @@ CONTROLBAR:AngmarHelegwenRevive
 END
 
 CONTROLBAR:AngmarHelegwenHotkey
-"&Helegwen"
+"Helegwen"
 END
 
 CONTROLBAR:ToggleStanceBattleHelegwen
@@ -662,59 +662,58 @@ CONTROLBAR:SpecialAbilityGabedesWinters
 END
 
 CONTROLBAR:ToolTipSpecialAbilityGabedesWinters
-"Requiert: Niveau 10 \n Les flèches gelées d'Helegwen ralentissent 2 fois plus les ennemis \n L'effet des flèches de glace sur les bâtiments persiste désormais pendant 15 secondes \n Améliore également l'effet du Tir multiple \n Le bonus de dégâts des flèches gelées et des flèches de glace est doublé pour toutes les unités d'Angmar \n \n Capacité passive"
+"Nécessite: Niveau 10 \n Les flèches gelées d'Helegwen ralentissent 2 fois plus les ennemis \n L'effet des flèches de glace sur les bâtiments persiste désormais pendant 15 secondes \n Améliore également l'effet du Tir multiple \n Le bonus de dégâts des flèches gelées et des flèches de glace est doublé pour toutes les unités d'Angmar \n \n Capacité passive"
 END
 
 CONTROLBAR:WindsOfProtection
-"Wind of Protection"
+"Protection du vent"
 END
 
 CONTROLBAR:ToolTipWindsOfProtection
-"When casted on structure, it cannot be attacked for 30 seconds \n Left click on icon then left click on Structure"
+"Lorsqu’il est lancé sur la structure, il ne peut pas être attaqué pendant 30 secondes \n Clic gauche sur l’icône puis clic gauche sur la structure désirée"
 END
 
 OBJECT:FestplatzMirkwood
-"Feasts of Mirkwood"
+"Fête de Vertbois"
 END
 
 OBJECT:FestplatzMirkwoodDescription
-"Generates resources \n Heals allied units in vast vicinity"
+"Génère des ressources \n Guérit les unités alliées à proximité"
 END
 
 CONTROLBAR:FesteDüsterwaldsInfoBox
-"Feasts of Mirkwood"
+"Fête de Vertbois"
 END
 
 CONTROLBAR:ToolTipFesteDüsterwaldsInfoBox
-"The fairground produces resources and heals nearby allied units \n If enemies come close to the festivals, the elves disappear in the blink of an eye \n The fairground may only be once in the game at the same time"
+"La fête produit des ressources et guérit les unités alliées alliées à proximité \n Si les ennemis se rapprochent des festivals, les elfes disparaissent en un clin d’œil \n Le champ de foire ne peut être qu’une seule fois en même temps"
 END
 
 CONTROLBAR:SpecialAbilityHerrscherdesFeuers
-"Ruler of &Fire"
+"Règle du Feu"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityHerrscherdesFeuers
-"Requires: Level 10 \n Sauron unleashes a mighty heat wave in all directions \n Hit allied units, heroes and monsters gain +75% resistance against fire for 30 seconds \n Enemies become 75% more vulnerable against fire \n Left click to activate"
+"Nécessite: Niveau 10 \n Sauron déclenche une puissante vague de chaleur dans toutes les directions \n Brulez les unités, les héros et les monstres alliés gagnent +75% de résistance contre le feu pendant 30 secondes \n Les ennemis deviennent 75% plus vulnérables contre le feu \n Clic gauche pour activer"
 END
 
 CONTROLBAR:SamdieSuche
-"The Search"
+"La recherche"
 END
 
 CONTROLBAR:ToolTipSamdieSuche
-"Requires: Frodo is no longer on the battlefield \n Now, his faithful friend Sam \n But need to look for him go the search fails, crashes Middle-earth in the darkness \n Sam gets new skills \n Frodo can only recruited new if Sam has gone to the search \n Enable left click"
-END
+"Nécessite:
 
 CONTROLBAR:FrodoGefährtendeaktivierenObject
-"Hide Companions Menu"
+"Masquer le menu des Compagnons"
 END
 
 OBJECT:SevenFathers
-"The Seven Fathers of the Dwarves"
+"Les Sept Pères des Nains"
 END
 
 CONTROLBAR:DurinSummonSevenFathers
-"The Seven Fathers of the Dwarves"
+"Les Sept Pères des Nains"
 END
 
 CONTROLBAR:ToolTipDurinSummonSevenFathers
