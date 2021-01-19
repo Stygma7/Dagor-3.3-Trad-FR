@@ -717,15 +717,15 @@ CONTROLBAR:DurinSummonSevenFathers
 END
 
 CONTROLBAR:ToolTipDurinSummonSevenFathers
-"Requires: Belegost Support \n Under the intersection of Aulë, \n Durin wakes his six brothers to join the fight against Melkor \n Left click to activate"
+"Nécessite: Support de Belegost \n Sous l'intersection d'Aulë, \n Durin réveille ses six frères pour rejoindre le combat contre Melkor \n Clic gauche pour activer"
 END
 
 CONTROLBAR:SpellBookLothlorienPfeilsalve
-"Arrow Storm"
+"Tempête de flèches"
 END
 
 CONTROLBAR:TooltipSpellBookLothlorienPfeilsalve
-"Rains down a storm of arrows at the target location \n Left click on icon then left click on target area"
+"Il pleut une tempête de flèches dans la zone indiquée \n Clic gauche sur l'icône puis clic gauche dans la zone ciblée"
 END
 
 CONTROLBAR:SpellBookElberethGilthoniel
