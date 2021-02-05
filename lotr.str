@@ -609,10 +609,6 @@ CONTROLBAR:ToolTipToggleStanceBattleThranduil
 "Shortcut: F \n Thranduil equips himself with one sword and his attack speed is higher. \n Enemies in a medium range will be engaged automatically"
 END
 
-CONTROLBAR:ToggleStanceAggressiveThranduil
-"Double Sword Stance"
-END
-
 CONTROLBAR:ToolTipToggleStanceAggressiveThranduil
 "Shortcut: D \n Thranduil equips himself with 2 swords, and his attacks have a small area of effect. \n Enemies in a wide range will automatically be engaged"
 END
@@ -41419,14 +41415,6 @@ CONTROLBAR:ToolTipBuildGondorKnightShieldsPorter
 "Requires Stable Level 2 \n +80% armor for Knights, Soldiers and Tower Guards"
 END
 
-CONTROLBAR:CreateAHeroRecruit
-"Recruit your custom Create a Hero"
-END
-
-CONTROLBAR:CreateAHeroRevive
-"Revive your custom Create a Hero"
-END
-
 CONTROLBAR:CreateAHeroHotkey
 "&CreateAHero"
 END
@@ -50794,7 +50782,7 @@ RULE:AllowRingHeroes
 END
 
 RULE:AllowCustomHeroes
-"Allow Custom Heroes"
+"Désactiver"
 END
 
 RULE:StrategicDialogTimer
