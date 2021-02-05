@@ -1,3 +1,56 @@
+
+Upgrade:StructureLevel2
+"Bâtiment niveau 2"
+END
+
+Upgrade:StructureLevel3
+"Bâtiment niveau 3"
+END
+
+Upgrade:StructureLevel4
+"Bâtiment niveau 4"
+END
+
+Upgrade:StructureLevel5
+"Bâtiment niveau 5"
+END
+
+CONTROLBAR:GenericStructureLevel2
+"Améliore le bâtiment au niveau 2"
+END
+
+CONTROLBAR:GenericStructureLevel3
+"Améliore le bâtiment au niveau 3"
+END
+
+CONTROLBAR:GenericStructureLevel4
+"Améliore le bâtiment au niveau 4"
+END
+
+CONTROLBAR:GenericStructureLevel5
+"Améliore le bâtiment au niveau 5"
+END
+
+CONTROLBAR:ToolTipGenericStructureLevel2
+"Augmente la vitesse de production de +25%."
+END
+
+CONTROLBAR:ToolTipGenericStructureLevel3
+"Augmente la vitesse de production de +50%."
+END
+
+CONTROLBAR:ToolTipGenericStructureLevel4
+"Augmente la vitesse de production de +30%."
+END
+
+CONTROLBAR:ToolTipGenericStructureLevel5
+"Augmente la vitesse de production de +40%."
+END
+
+OBJECT:GenericStructureEconomiqueDescription
+"Génère des ressources selon le terrain disponible\nNiveau 2 : Augmente la vitesse de production de +25%, les points de vie de 1000 et les points de commandement de +90.\nNiveau 3 : Augmente la vitesse de production de +50%, les points de vie de 1000 et les points de commandement de +120."
+END
+
 CONTROLBAR:TooltipSpellBookGeschenkeLoriens_Neu2
 "Un héros reçoit un cadeau de Lothlórien \n Galadriel (avec le Silmaril): Reçoit une amélioratinon magique qui permet de recharger ses compétences plus rapidement \n Celeborn: Reçoit la lame d'argent\n Haldir: Reçoit une flèche blanche qui étourdit toutes les unités dans un large rayon \n Rumil & Orophin: obtiennent une armure elfique puissante \n Thranduil: Sa portée et sa vue augmente fortement \n Legolas: Reçoit l'arc en bois de mallorn de Galadriel ses dégats sont augmentés "attaque du rapace" et "Flèches du vent" sont améliorer \n Tauriel: Guérit tous les héros alliés à proximité \n Clic gauche sur l'icone, puis cliquez sur le héros désiré"
 END
@@ -39,7 +92,7 @@ OBJECT:MaglorShadow
 END
 
 OBJECT:DwarvenSummonedCitadelDescription
-"Structure Militaire \n Entrainez les nains d'Aglarond \n Vous ne pouvez posséder qu'une citadelle en même temps"
+" Structure Militaire \n Entrainez les nains d'Aglarond \n Vous ne pouvez posséder qu'une citadelle en même temps"
 END
 
 CONTROLBAR:SelectUnitsAglarond
@@ -187,7 +240,7 @@ CONTROLBAR:ToolTipSpecialAbilityZwergischerWohlstand
 END
 
 CONTROLBAR:SpecialAbilityZwielichtigerGeselle
-"Ombres et esquives"
+"ombres et esquives"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityZwielichtigerGeselle
@@ -315,7 +368,7 @@ CONTROLBAR:ToolTipGundabadBolgCarnage
 END
 
 CONTROLBAR:GundabadBolgGuardSummon
-"Berserkers de Gundabad"
+"Gundabad Berserkers"
 END
 
 CONTROLBAR:ToolTipGundabadBolgGuardSummon
@@ -344,7 +397,7 @@ CONTROLBAR:GundabadBolgRecruit
 END
 
 CONTROLBAR:GundabadBolgRevive
-"Faites revivre le héros Bolg tombé au combat"
+"Faites revivre le héros, Bolg tombé au combat"
 END
 
 CONTROLBAR:GundabadBolgHotkey
@@ -413,7 +466,7 @@ CONTROLBAR:VingilotInfoBox
 END
 
 CONTROLBAR:ToolTipVingilotInfoBox
-"Eärendil donne aux unités alliés une résistance à la peur et debuff unités ennemies \n Ancalagon est paralizé près de Vingilot"
+"Eärendil  donne aux unités alliés une résistance à la peur et debuff unités ennemies \n Ancalagon est paralizé près de Vingilot"
 END
 
 OBJECT:DwarvenBegleiterdesPrinzenHorde
@@ -465,35 +518,35 @@ CONTROLBAR:SpecialAbilityMorgulriderKnechtschaft
 END
 
 CONTROLBAR:ToolTipSpecialAbilityMorgulriderKnechtschaft
-"Nécessite: Niveau 6 \n Les chevaliers de Morgul vont revenir en tant qu'Esprits du Monde des Ombres s'ils meurent \n Capacité passive"
+"Requires: Level 6 \n The Morgul Knights will return as spirits of the Shadow World if they die \n Passive ability"
 END
 
 CONTROLBAR:LW_ToolTip_SupportHero
-"Héros"
+"Hero"
 END
 
 CONTROLBAR:LW_ToolTipBuild_SupportHero
-"Type d'unité : Héros\n"
+"Unit Type: Hero\n"
 END
 
 CONTROLBAR:LW_ToolTip_LeaderHero
-"Chef d'armée des héros"
+"Hero Army Leader"
 END
 
 CONTROLBAR:LW_ToolTipBuild_LeaderHero
-"Chef d'armée des héros\n"
+"Hero Army Leader\n"
 END
 
 CONTROLBAR:LW_ToolTip_DwarvenGuardianHorde
-"\nType d'unité : Infanterie d'élite\nForts contre les piquiers"
+"\nUnit Type: Elite Infantry\nStrong vs. Pikemen"
 END
 
 CONTROLBAR:SpecialAbilityZwergischeKampfkunst
-"Maître de guerre nain&y"
+"Dwarven War Master&y"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityZwergischeKampfkunst
-"Les gardes de l'Arkenstone infligent 50% de dégats en plus, ignorent les armures lourdes et ne peuvent pas être renversés ou piétinés\n Clic gauche pour activer"
+"The Arkenguard cause +50% more damage for 15 seconds, ignore heavy armor and can not be knocked down or trampled \n Left click to activate"
 END
 
 OBJECT:DwarvenNarin
@@ -505,48 +558,47 @@ CONTROLBAR:LW_ToolTip_DwarvenNarin
 END
 
 CONTROLBAR:DwarvenNarinRecruit
-"Recruter le messager de Dain"
+"Recruit Dain's Messenger"
 END
 
 CONTROLBAR:DwarvenNarinRevive
-"Faites revivre le héros Narin tombé au combat"
+"Revive the fallen hero Narin"
 END
 
 CONTROLBAR:DwarvenNarinHotkey
-"Narin"
+"Na&rin"
 END
 
 CONTROLBAR:SpecialAbilityNarinDainsBote
-"Messager de Dain"
+"Dain's &Messenger"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityNarinDainsBote
-"Les héros, unités héroïques et unités d'élite à proximité gagnent 25% d'armure en plus et obtiennent de l'expérience 50% plus rapidement \n L'effet persiste pendant 30 secondes tant que Narin est à proximité \n 
-La capacité peut être activée pour donner temporairement à Narin 35% de vitesse en plus \n Clic gauche pour activer"
+"Nearby Heroes, Heroic Units and Elite Units gain +25% armor and gather experience 50% faster \n The effect persists for 30 seconds after Narin has their vicinity \n The ability can be activated to temporarily give Narin +35% speed \n Left click to activate"
 END
 
 CONTROLBAR:SpecialAbilityNarinKampfbefehl
-"Commandement de bataille"
+"Battle Com&mand"
 END
 
 CONTROLBAR:ToolSpecialAbilityNarinKampfbefehl
-"Nécessite: Niveau 3 \n Tous les chevaucheurs de béliers ciblés infligent 35% de dégats en plus et gagnent 35% d'armure pendant 30 secondes, mais voient leur vitesse divisée par deux \n Si Narin se trouve dans la zone ciblée, le bonus l'affecte également \n Clic gauche dans la zone désignée"
+"Requires: Level 3 \n All Ram Riders in target area gain +35% damage and armor for 30 seconds, but have their movement speed halved \n If Narin is within the target area, the bonus also affects him \n Left click on the designated area"
 END
 
 CONTROLBAR:SpecialAbilityNarinWaffenstillstand
-"Cessez-le-feu"
+"&Ceasefire"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityNarinWaffenstillstand
-"Nécessite: Niveau 6 \n Narin négocie pour faire cesser le feu \n Pendant 30 secondes, le héros ou l'unité ennemi désigné ne peut pas être attaqué ou attaquer, et toute capacité lancée pendant le cessez-le-feu prendra deux fois plus de temps à se recharger. \n Clic gauche sur un héros ou une unité ennemi"
+"Requires: Level 6 \n Narin negotiates a ceasefire \n For 30 seconds the designated enemy hero or monster can not be attacked or attack, and any abilities cast during the ceasefire will take twice as long to reload \n Left click on an enemy hero or monster"
 END
 
 CONTROLBAR:SpecialAbilityNarinAllianz
-"Alliance"
+"Al&liance"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityNarinAllianz
-"Requiert: Niveau 10 \n Narin envoie un corbeau pour soutenir un héros allié \n Le héros désigné ne prendra aucun dégât pendant 10 secondes \n La capacité peut être utilisée sur tout le champ de bataille \n Clic gauche sur le héros designé"
+"Requires: Level 10 \n Narin sends a raven to promise an allied hero his support \n The designated hero doesn't take any damage for 10 seconds \n Ability may be used across the whole battlefield \n Left click on the designated hero"
 END
 
 CONTROLBAR:ToggleStanceBattleThranduil
@@ -590,15 +642,15 @@ CONTROLBAR:LW_Hero_Helegwen
 END
 
 CONTROLBAR:AngmarHelegwenRecruit
-"Recruter la meilleure archère d'Angmar"
+"Recruit Angmar's greatest archer"
 END
 
 CONTROLBAR:AngmarHelegwenRevive
-"Faites revivre l'héroïne Helegwen tombée au combat"
+"Revive the fallen hero Helegwen"
 END
 
 CONTROLBAR:AngmarHelegwenHotkey
-"Helegwen"
+"&Helegwen"
 END
 
 CONTROLBAR:ToggleStanceBattleHelegwen
@@ -626,106 +678,107 @@ CONTROLBAR:ToolTipToggleStanceHoldGroundHelegwen
 END
 
 CONTROLBAR:SpecialAbilityHelegwenSalve
-"Tir multiple"
+"Mulitsho&t"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityHelegwenSalve
-"Requiert: Niveau 3 \n Helegwen tire une salve de flèches, applicant les effets du type de flèche choisi à tous les ennemis dans la zone \n Clic gauche sur la zone ciblée"
+"Requires: Level 3 \n Helegwen shoots a salvo of arrows, applying the effects of her chosen arrow type to all enemies in the area \n Left click on target area"
 END
 
 CONTROLBAR:SpecialAbilityHelegwenFrostregen
-"Pluie de flèches gelées"
+"Frost Arrow &Rain"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityHelegwenFrostregen
-"Requiert: Niveau 5 \n Helegwen produit un barrage de flèches gelées sur la zone ciblée \n Les unités ennemis et les monstres ciblés sont gelés pendant 10 secondes \n Les héros sont ralentis à 50% \n Les bâtiments sont désactivés et ne peuvent plus attaquer pendant 30 secondes \n Clic gauche sur la zone ciblée"
+"Requires: Level 5 \n Helegwen orders a barrage of Frost Arrows on target area \n Enemy units and Monsters in the target area are frozen for 10 seconds \n Heroes are slowed down by 50% \n Buildings are disabled and can't attack for 30 seconds \n Left click on target area"
 END
 
 CONTROLBAR:SpecialAbilityHelegwenEisbarriere
-"Barrière de glace"
+"I&ce Barrier"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityHelegwenEisbarriere
-"Requiert: Niveau 7 \n Les sorciers d'Angmar protègent Helegwen avec un mur de glace persistant durant 30 secondes, mais pouvant être détruit \n Clic gauche pour activer"
+"Requires: Level 7 \n The sorcerers of Angmar protect Helegwen with a wall of ice which persists for 30 seconds, but can be destroyed \n Left click to activate"
 END
 
 CONTROLBAR:SpecialAbilityHelegwenKunde
-"Murmures du Vent du Nord"
+"Whispers of the N&orthwind"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityHelegwenKunde
-"Requiert: Niveau 9 \n Helegwen gagne un champ de vision triplé et se déplace 30% plus rapidement durant 30 secondes \n En se déplaçant, elle laisse derrière elle une trainée de neige ralentissant les ennemis \n Clic gauche pour activer"
+"Requires: Level 9 \n Helegwen gains thripled vision range and moves 30% faster for 30 seconds \n While moving, she leaves behind a trail of snow that slows enemies \n Left click to activate"
 END
 
 CONTROLBAR:SpecialAbilityGabedesWinters
-"Cadeau de l'Hiver"
+"Gift of Winter"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityGabedesWinters
-"Nécessite: Niveau 10 \n Les flèches gelées d'Helegwen ralentissent 2 fois plus les ennemis \n L'effet des flèches de glace sur les bâtiments persiste désormais pendant 15 secondes \n Améliore également l'effet du Tir multiple \n Le bonus de dégâts des flèches gelées et des flèches de glace est doublé pour toutes les unités d'Angmar \n \n Capacité passive"
+"Requires: Level 10 \n Helegwen's Freezing Arrows slow enemies twice as much \n The effect of the Ice Arrows against buildings now lasts for 15 seconds \n Also improves the effects of Multishot \n The damage bonus by Frozen Arrows and Ice Ammunition is doubled for all units of Angmar \n \n Passive ability"
 END
 
 CONTROLBAR:WindsOfProtection
-"Protection du vent"
+"Wind of Protection"
 END
 
 CONTROLBAR:ToolTipWindsOfProtection
-"Lorsqu’il est lancé sur la structure, il ne peut pas être attaqué pendant 30 secondes \n Clic gauche sur l’icône puis clic gauche sur la structure désirée"
+"When casted on structure, it cannot be attacked for 30 seconds \n Left click on icon then left click on Structure"
 END
 
 OBJECT:FestplatzMirkwood
-"Fête de Vertbois"
+"Feasts of Mirkwood"
 END
 
 OBJECT:FestplatzMirkwoodDescription
-"Génère des ressources \n Guérit les unités alliées à proximité"
+"Generates resources \n Heals allied units in vast vicinity"
 END
 
 CONTROLBAR:FesteDüsterwaldsInfoBox
-"Fête de Vertbois"
+"Feasts of Mirkwood"
 END
 
 CONTROLBAR:ToolTipFesteDüsterwaldsInfoBox
-"La fête produit des ressources et guérit les unités alliées alliées à proximité \n Si les ennemis se rapprochent des festivals, les elfes disparaissent en un clin d’œil \n Le champ de foire ne peut être qu’une seule fois en même temps"
+"The fairground produces resources and heals nearby allied units \n If enemies come close to the festivals, the elves disappear in the blink of an eye \n The fairground may only be once in the game at the same time"
 END
 
 CONTROLBAR:SpecialAbilityHerrscherdesFeuers
-"Règle du Feu"
+"Ruler of &Fire"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityHerrscherdesFeuers
-"Nécessite: Niveau 10 \n Sauron déclenche une puissante vague de chaleur dans toutes les directions \n Brulez les unités, les héros et les monstres alliés gagnent +75% de résistance contre le feu pendant 30 secondes \n Les ennemis deviennent 75% plus vulnérables contre le feu \n Clic gauche pour activer"
+"Requires: Level 10 \n Sauron unleashes a mighty heat wave in all directions \n Hit allied units, heroes and monsters gain +75% resistance against fire for 30 seconds \n Enemies become 75% more vulnerable against fire \n Left click to activate"
 END
 
 CONTROLBAR:SamdieSuche
-"La recherche"
+"The Search"
 END
 
 CONTROLBAR:ToolTipSamdieSuche
-"Nécessite:
+"Requires: Frodo is no longer on the battlefield \n Now, his faithful friend Sam \n But need to look for him go the search fails, crashes Middle-earth in the darkness \n Sam gets new skills \n Frodo can only recruited new if Sam has gone to the search \n Enable left click"
+END
 
 CONTROLBAR:FrodoGefährtendeaktivierenObject
-"Masquer le menu des Compagnons"
+"Hide Companions Menu"
 END
 
 OBJECT:SevenFathers
-"Les Sept Pères des Nains"
+"The Seven Fathers of the Dwarves"
 END
 
 CONTROLBAR:DurinSummonSevenFathers
-"Les Sept Pères des Nains"
+"The Seven Fathers of the Dwarves"
 END
 
 CONTROLBAR:ToolTipDurinSummonSevenFathers
-"Nécessite: Support de Belegost \n Sous l'intersection d'Aulë, \n Durin réveille ses six frères pour rejoindre le combat contre Melkor \n Clic gauche pour activer"
+"Requires: Belegost Support \n Under the intersection of Aulë, \n Durin wakes his six brothers to join the fight against Melkor \n Left click to activate"
 END
 
 CONTROLBAR:SpellBookLothlorienPfeilsalve
-"Tempête de flèches"
+"Arrow Storm"
 END
 
 CONTROLBAR:TooltipSpellBookLothlorienPfeilsalve
-"Il pleut une tempête de flèches dans la zone indiquée \n Clic gauche sur l'icône puis clic gauche dans la zone ciblée"
+"Rains down a storm of arrows at the target location \n Left click on icon then left click on target area"
 END
 
 CONTROLBAR:SpellBookElberethGilthoniel
@@ -996,19 +1049,19 @@ CONTROLBAR:ToolTipSpecialAbilityThalSchwarzePfeile
 "The black arrows solve the impugned enemy of fear \n Left click on the desired destinations"
 END
 
-CONTROLBAR:ToggleMarschformation  
+CONTROLBAR:ToggleMarschformation
 "&March Formation"
 END
 
-CONTROLBAR:ToolTipToggleLineToMarschformation  
+CONTROLBAR:ToolTipToggleLineToMarschformation
 "+30% speed, -20% attack and defense"
 END
 
-CONTROLBAR:ToggleMonstertöterFormation  
+CONTROLBAR:ToggleMonstertöterFormation
 "&Monsterslayer Formation"
 END
 
-CONTROLBAR:ToolTipToggleLineToMonstertöterFormation  
+CONTROLBAR:ToolTipToggleLineToMonstertöterFormation
 "The units can not be ejected and ridden by cavalry, but have -25% Armor"
 END
 
@@ -1142,7 +1195,7 @@ END
 
 CONTROLBAR:ToolTipSpecialAbilityZaphragorEntfesselterZorn
 "Requires: Level 10 \n Price: 4000 Life Points \n Zaphragor evokes shadows and ice against all enemies within \n units suffer high damage and be blown henceforth \n heroes are briefly trapped in a prison of Frost \n Left-click to activate"
-END 
+END
 
 TOOLTIP:PurchaseEntscheidungPrinz
 "Requires: Level 7 \n Accept the fate that is given to you and follow the path of an heir to the throne of Arnor \n Left click to activate"
@@ -1170,7 +1223,7 @@ END
 
 CONTROLBAR:TooltipArwenAbendsternSpellbook_Neu
 "The hidden magic of the Evening Star is awakened and fulfills Arwen's soul \n Arwen can summon Strider at Level eight \n Arwen and heroes in her area receive +30% armor, double regeneration rate, and -30% recharge time of magic \n Passive ability"
-END 
+END
 
 CONTROLBAR:TooltipSpellBookCreepStructure_Neu
 "Built a neutral uncontrolled Goblin Cave, Troll Cave, Spider Cave or Warg Cave, \n which can be bound by the pact of hate \n Requires a minimum distance to any enemy buildings and troops \n Left click on the icon and then click passable area"
@@ -3394,7 +3447,7 @@ TOOLTIP:GeschenkeLoriens
 END
 
 CONTROLBAR:ToolTipPhialofGaladrielGeschenke
-"Requires: Gifts of Lothlórien \n Frodo uses the Light of Eärendil, causing enemy units in a wide area to flee \n Left-click to activate" 
+"Requires: Gifts of Lothlórien \n Frodo uses the Light of Eärendil, causing enemy units in a wide area to flee \n Left-click to activate"
 END
 
 SCRIPT:festungslimit
@@ -3406,7 +3459,7 @@ CONTROLBAR:SnowRain
 END
 
 CONTROLBAR:TooltipSnowRain
-"Makes it snow temporarily \n All enemy units are 20% slower \n Left click to activate" 
+"Makes it snow temporarily \n All enemy units are 20% slower \n Left click to activate"
 END
 
 OBJECT:AngmarIceTower
@@ -6238,7 +6291,7 @@ LWScenario:WOTRScenarioKDZDescription
 END
 
 LWScenario:WOTRGameTypeKDZ
-"Edain Campaign" 
+"Edain Campaign"
 END
 
 LWScenario:WOTRObjectivesKDZ
@@ -12259,7 +12312,7 @@ UPGRADE:LothlorienLembasbrotAktive
 "Lembas Bread"
 END
 
-CONTROLBAR:DornpfeileDüsterwalds 
+CONTROLBAR:DornpfeileDüsterwalds
 "Bows from Mirkwood"
 END
 
@@ -14747,11 +14800,11 @@ CONTROLBAR:LW_Hero_TheDefiler
 "The Defiler"
 END
 
-CONTROLBAR:DefilerLeadership 
+CONTROLBAR:DefilerLeadership
 "Commander of the Legions"
 END
 
-CONTROLBAR:ToolTipDefilerLeadership 
+CONTROLBAR:ToolTipDefilerLeadership
 "Near heroes around The Defiler gain 50% armor \n Passive ability"
 END
 
@@ -19580,7 +19633,7 @@ CONTROLBAR:DurmarthLeadership
 END
 
 CONTROLBAR:ToolTipBuildDwarvenAxeThrowerHorde
-"Strong at Range" 
+"Strong at Range"
 END
 
 CONTROLBAR:ZorndunkleLautwasser
@@ -20756,7 +20809,7 @@ END
 
 CONTROLBAR:BannerträgerElronds
 "Legendary Sword Master"
-END	
+END
 
 CONTROLBAR:ToolTipBannerträgerElronds
 "Requires: Level 7 \n Erestor martial arts are now legendary, and inspired other elves around him \n Double armor and fear resistance for allies infantry units near him \n Passive ability"
@@ -26633,7 +26686,7 @@ CONTROLBAR:MordorWitchkingHotkey
 END
 
 CONTROLBAR:MordorWitchkingRecruit
-"Recruit the leader of the Nazgûl \n While all Ringwraiths generate their own power, they are tied to the mercy of the Dark Lord \n As Sauron grows in strength, the Nazgûl will be able to fully embrace his darkness, unlocking their truest and darkest selves" 
+"Recruit the leader of the Nazgûl \n While all Ringwraiths generate their own power, they are tied to the mercy of the Dark Lord \n As Sauron grows in strength, the Nazgûl will be able to fully embrace his darkness, unlocking their truest and darkest selves"
 END
 
 CONTROLBAR:MordorWitchkingRevive
@@ -28254,7 +28307,7 @@ END
 
 TIME:Second
 "1 Second"
-END 
+END
 
 Color:Gold
 "Gold"
@@ -28492,11 +28545,11 @@ END
 APT:LoadSaveGame
 "LOAD/SAVE GAME"
 END
- 
+
 APT:LoadGame
 "LOAD"
 END
- 
+
 APT:HeaderLoadSavedGame
 "LOAD SAVED GAME"
 END
@@ -28551,7 +28604,7 @@ END
 
 APT:MultiplayerSaveDeniedAutoDenied
 "The other player is busy and cannot save now, they should be able to save momentarily."
-END 
+END
 
 APT:MultiplayerSaveDeniedNoSpace
 "The other player cannot save because they are out of hard drive space."
@@ -28656,11 +28709,11 @@ END
 APT:MenuTutorials
 "TUTORIALS"
 END
- 
+
 GUI:MainMenuLoadGame
 "Load Game"
 END
- 
+
 APT:LoadReplay
 "LOAD REPLAY"
 END
@@ -28730,15 +28783,15 @@ APT:HeaderPlayerName
 END
 
 APT:HeaderFaction
-"Factions"
+"FACTIONS"
 END
 
 APT:HeaderFactionCaps
-"Factions"
+"FACTIONS"
 END
 
 APT:HeaderTeam
-"Equipe"
+"EQUIPE"
 END
 
 APT:HeaderStatus
@@ -28996,7 +29049,7 @@ END
 GUI:DefaultReplayFileName
 "Replay %d"
 END
- 
+
 GUI:ControlBarMoneyDisplay
 "$ %d"
 END
@@ -29064,11 +29117,11 @@ END
 GUI:PerSideWinPercentage
 "%d%% %ls"
 END
- 
+
 GUI:WinnersToday
 "TODAY'S WINNERS"
 END
- 
+
 GUI:WinnersLastWeek
 "LAST WEEK'S WINNERS"
 END
@@ -29080,7 +29133,7 @@ END
 GUI:Shadows2D
 "2D Shadows"
 END
- 
+
 TOOLTIP:Shadows2D
 "Toggle showing 2D shadows in game. Turn off for improved performance"
 END
@@ -29088,7 +29141,7 @@ END
 GUI:Shadows3D
 "3D Shadows"
 END
- 
+
 TOOLTIP:Shadows3D
 "Toggle showing 3D shadows in game. Turn off for improved performance"
 END
@@ -29096,7 +29149,7 @@ END
 GUI:CloudShadows
 "Cloud Shadows"
 END
- 
+
 TOOLTIP:CloudShadows
 "Toggle showing cloud shadows on terrain. Turn off for improved performance"
 END
@@ -29112,7 +29165,7 @@ END
 GUI:SmoothWater
 "Smooth Water Borders"
 END
- 
+
 TOOLTIP:SmoothWater
 "Toggle smoothing of water borders. Turn off for improved performance"
 END
@@ -29120,7 +29173,7 @@ END
 GUI:ExtraAnimations
 "Extra Animations"
 END
- 
+
 TOOLTIP:ExtraAnimations
 "Toggle showing optional animations like tree sway. Turn off for improved performance"
 END
@@ -29128,7 +29181,7 @@ END
 GUI:NoDynamicLOD
 "Disable Dynamic LOD"
 END
- 
+
 TOOLTIP:NoDynamicLOD
 "Disable automatic detail adjustment. Turn off for improved performance"
 END
@@ -29144,7 +29197,7 @@ END
 GUI:TreeSway
 "Tree Animation"
 END
- 
+
 TOOLTIP:TreeSway
 "Toggle tree animations. Turn off for improved performance"
 END
@@ -29152,7 +29205,7 @@ END
 GUI:TankTreads
 "Vehicle Tracks"
 END
- 
+
 TOOLTIP:TankTreads
 "Toggle marks left by vehicles. Turn off for improved performance"
 END
@@ -29160,7 +29213,7 @@ END
 GUI:WaterWaves
 "Water Waves"
 END
- 
+
 TOOLTIP:WaterWaves
 "Toggle wave animations on shorelines. Turn off for improved performance"
 END
@@ -29216,19 +29269,19 @@ END
 GUI:IgnoreSm
 "Ignore"
 END
- 
+
 GUI:AcceptSm
 "ACCEPT"
 END
- 
+
 GUI:EasyCaps
 "EASY"
 END
- 
+
 GUI:MediumDifficultyCaps
 "MEDIUM"
 END
- 
+
 GUI:HardCaps
 "HARD"
 END
@@ -29236,7 +29289,7 @@ END
 TOOLTIP:AdvanceOptionsAccept
 "Accept the changes made to the Advance Display Options"
 END
- 
+
 TOOLTIP:AdvanceOptionsCancel
 "Exit the Advance Display Options Menu without making your changes"
 END
@@ -29244,11 +29297,11 @@ END
 GUI:BehindBuilding
 "Behind Buildings"
 END
- 
+
 TOOLTIP:BehindBuilding
 "Toggle showing units behind buildings. On can be slower"
 END
- 
+
 GUI:AddCash
 "+%d"
 END
@@ -29260,7 +29313,7 @@ END
 GUI:TRAINING
 "TRAINING"
 END
- 
+
 GUI:RestartConfirmationTitle
 "RESTART?"
 END
@@ -29884,11 +29937,11 @@ END
 GUI:HTTPProxy
 "HTTP Proxy:"
 END
- 
+
 GUI:WinPercent
 "%d%%"
 END
- 
+
 GUI:WaitingToBeginConnection
 "Waiting to begin"
 END
@@ -30930,29 +30983,29 @@ APT:CampaignFailedMission
 END
 
 GUI:RestartMission
-"RESTART MISSION" 
-END 
+"RESTART MISSION"
+END
 
 GUI:ExitMission
-"EXIT MISSION" 
-END 
+"EXIT MISSION"
+END
 
 GUI:OlderReplayVersionTitle
 "OLDER REPLAY VERSION"
-END 
- 
+END
+
 GUI:OlderReplayVersion
-"Once a patch has been applied, loading a Replay from a previous patch may no longer work. Continue to load?" 
+"Once a patch has been applied, loading a Replay from a previous patch may no longer work. Continue to load?"
 END
 
 APT:OlderReplayVersion
-"Once a patch has been applied, loading a Replay from a previous patch may no longer work. Continue to load?" 
+"Once a patch has been applied, loading a Replay from a previous patch may no longer work. Continue to load?"
 END
 
 GUI:LowTextureDetail
 "Low Texture Detail"
 END
- 
+
 TOOLTIP:LowTextureDetail
 "Use Low Resolution Textures"
 END
@@ -31112,7 +31165,7 @@ END
 GUI:WinPercentLabel
 "Win Percent"
 END
- 
+
 GUI:BestWinStreak
 "Best Win Streak"
 END
@@ -31636,10 +31689,10 @@ GUI:GSDisconReason4
 END
 
 GUI:GSDisconReason5
-"Login process has timed out. Please check your internet connection" 
+"Login process has timed out. Please check your internet connection"
 END
 
-GUI:GSDisconReason6 
+GUI:GSDisconReason6
 "That nickname/email combo does not exist. If you want to create an account, click on Create Account."
 END
 
@@ -31922,15 +31975,15 @@ END
 Buddy:MatchingNotification
 "%hs is playing Tournament"
 END
- 
+
 Buddy:StagingNotification
 "%hs is setting up a game"
 END
- 
+
 Buddy:LoadingNotification
 "%hs is starting a game"
 END
- 
+
 Buddy:PlayingNotification
 "%hs is playing a game"
 END
@@ -33088,11 +33141,11 @@ INI:MissingDisplayName
 END
 
 INI:FactionDefault
-"Armée par défaut"
+"Default Army"
 END
 
 INI:FactionObserver
-"Spectateur"
+"Observer"
 END
 
 INI:FactionCivilian
@@ -33176,7 +33229,7 @@ SIDE:Neutral
 END
 
 SIDE:Observer
-"Spectateur"
+"Observateur"
 END
 
 TOOLTIP:Skirmish/tooltipMordor
@@ -34083,7 +34136,7 @@ TOOLTIP:LanLobby/FrameB_Host/GameSetUp_02/tooltipPlayerMadeMaps
 "Diese Karten werden nicht offiziell von EA genehmigt und wurden von Spielern erstellt.\nWenn du eine neue Karte herunterlädst, erscheint diese in der Kartenliste."
 END
 
-DOZER:ConstructionComplete 
+DOZER:ConstructionComplete
 "Construction Complete: %s"
 END
 
@@ -34215,7 +34268,7 @@ GUI:CreateFormation
 "Create Formation"
 END
 
-GUI:CreateFormationDescription 
+GUI:CreateFormationDescription
 "Create a formation of the selected units and they will retain it as they move."
 END
 
@@ -34243,7 +34296,7 @@ GUI:ToggleLetterboxDescription
 "Toggles Letterbox Mode on/off."
 END
 
-GUI:Scatter 
+GUI:Scatter
 "Scatter"
 END
 
@@ -35347,7 +35400,7 @@ CONTROLBAR:ObjectivesDescription
 "Current Mission Objectives"
 END
 
-CONTROLBAR:PlayerStatus 
+CONTROLBAR:PlayerStatus
 "Objectives"
 END
 
@@ -35492,7 +35545,7 @@ UPGRADE:ForgedBlades
 END
 
 UPGRADE:ElvenAllies
-"Elves Allies" 
+"Elves Allies"
 END
 
 UPGRADE:DunedainAllies
@@ -41183,7 +41236,7 @@ CONTROLBAR:SummonDunedainAllies
 END
 
 CONTROLBAR:ToolTipSummonDunedainAllies
-"Summons a group of Dunedain Rangers \n Left click icon then left click on pathable location" 
+"Summons a group of Dunedain Rangers \n Left click icon then left click on pathable location"
 END
 
 CONTROLBAR:MenOfDaleAllies
@@ -41771,7 +41824,7 @@ CONTROLBAR:MordorMouthofSauronHotkey
 END
 
 CONTROLBAR:MordorMouthofSauronRecruit
-"Recruit the messenger of the Dark Lord \n While the Mouth generates his own power, he is tied to the mercy of the Dark Lord\n As Sauron grows in strength, his messenger will harness the Lord of the Shadow's power to devastate his foes" 
+"Recruit the messenger of the Dark Lord \n While the Mouth generates his own power, he is tied to the mercy of the Dark Lord\n As Sauron grows in strength, his messenger will harness the Lord of the Shadow's power to devastate his foes"
 END
 
 CONTROLBAR:ToolTipBuildGlorfindel
@@ -42513,7 +42566,7 @@ END
 CONTROLBAR:ToggleHaradrimLineFormation
 "Line For&mation"
 END
-   
+
 CONTROLBAR:ToolTipToggleHaradrimLineFormation
 "Haradrim Line For&mation"
 END
@@ -43031,7 +43084,7 @@ TOOLTIP:Campaign3
 END
 
 GUI:InternetDisconnectionMenuHeader
-"Disconnection Menu" 
+"Disconnection Menu"
 END
 
 GUI:InternetDisconnectionMenuHeaderCaps
@@ -44370,7 +44423,7 @@ STAT:PERSIST_FACTION_LEAST_SUCCESSFUL_AGAINST
 "Faction least successful against"
 END
 
-STAT:PERSIST_FAVORITE_UNIT_TO_BUILD 
+STAT:PERSIST_FAVORITE_UNIT_TO_BUILD
 "Favorite unit to build"
 END
 
@@ -45541,23 +45594,23 @@ END
 APT:SortGameName
 "GAME NAME"
 END
- 
+
 APT:SortGameType
 "GAME TYPE"
 END
- 
+
 APT:SortNumPlayers
 "PLAYERS"
 END
- 
+
 APT:SortPing
 "PING"
 END
- 
+
 APT:MutePlayer
 "MUTE"
 END
- 
+
 APT:QuickMatch
 "TOURNAMENT"
 END
@@ -45675,16 +45728,16 @@ APT:Restart
 END
 
 APT:ExitMission
-"EXIT" 
-END 
+"EXIT"
+END
 
 APT:Forfeit
-"FORFEIT" 
-END 
+"FORFEIT"
+END
 
 APT:Surrender
-"SURRENDER" 
-END 
+"SURRENDER"
+END
 
 APT:Credits
 "CREDITS"
@@ -52059,7 +52112,7 @@ OBJECT:GondorWorkshop
 END
 
 OBJECT:GondorWorkshopDescription
-"Military Structure \n Builds Siege Machines \n Research Fire Stones"  
+"Military Structure \n Builds Siege Machines \n Research Fire Stones"
 END
 
 CONTROLBAR:ConstructMenWorkshop
@@ -52116,7 +52169,7 @@ CONTROLBAR:ConstructGondorForgeLevel2Upgrade
 END
 
 CONTROLBAR:ToolTipBuildGondorForgeLevel2Upgrade
-"Allows to research Forged Blades" 
+"Allows to research Forged Blades"
 END
 
 CONTROLBAR:ConstructGondorForgeLevel3Upgrade
@@ -52556,7 +52609,7 @@ CONTROLBAR:PurchaseTechnologyGondorKnightShieldsNew
 END
 
 CONTROLBAR:ToolTipPurchaseTechnologyGondorKnightShieldsNew
-"Allows battalions upgrade with Knight Shields" 
+"Allows battalions upgrade with Knight Shields"
 END
 
 CONTROLBAR:PurchaseUpgradeGondorKnightShieldsNew
@@ -53514,7 +53567,7 @@ END
 
 CONTROLBAR:ConstructRohanKaserneLevel3Upgrade
 "&Upgrade Barracks at Level 3"
-END 
+END
 
 CONTROLBAR:ToolTipBuildRohanKaserneLevel3Upgrade
 "+25% Training Speed \n Allows the training Rohan Captains and Rohan Catapults"
@@ -54885,7 +54938,7 @@ END
 
 UPGRADE:FortressBündnisWaldelben
 "Alliance of Wood Elves"
-END 
+END
 
 CONTROLBAR:PurchaseUpgradeFortressSchutzbannn
 "Ward of Caras Galadhons"
@@ -55068,7 +55121,7 @@ CONTROLBAR:ConstructMirkwoodBarracksLevel3Upgrade
 END
 
 CONTROLBAR:ToolTipBuildMirkwoodBarracksLevel3Upgrade
-"+25% Training Speed \n Allows the training of Mirkwood Guardians of the Path" 
+"+25% Training Speed \n Allows the training of Mirkwood Guardians of the Path"
 END
 
 
@@ -55261,7 +55314,7 @@ CONTROLBAR:ToolTipConstructMirkwoodKaserne
 END
 
 CONTROLBAR:ConstructMirkwoodGewoelbe
-"&Vault of the King Expansion" 
+"&Vault of the King Expansion"
 END
 
 CONTROLBAR:ToolTipConstructMirkwoodGewoelbe
@@ -56023,7 +56076,7 @@ OBJECT:MirkwoodElkriderHorde
 END
 
 CONTROLBAR:ConstructMirkwoodElkriderHorde
-"Mirkwood Elk &Rider" 
+"Mirkwood Elk &Rider"
 END
 
 CONTROLBAR:ToolTipBuildMirkwoodElkriderHorde
@@ -59000,7 +59053,7 @@ END
 OBJECT:DwarvenGuardianFeuerbärte
 "Iron Hills Guardian"
 END
- 
+
 OBJECT:HordeDwarvenGuardianFeuerbärte
 "Iron Hills Guardians"
 END
@@ -61352,7 +61405,7 @@ END
 
 CONTROLBAR:TooltipConstructMordorDrummerTrolls
 "Requires: Troll Cage Level 2 \n Unit Type: Support \n Strong at supporting your own units"
-END 
+END
 
 CONTROLBAR:DescriptionConstructMordorDrummerTrolls
 "Allies near the Drummer Troll cause \n +50% damage, +50% armor and gain \n experience much faster \n Passive ability"
@@ -62445,7 +62498,7 @@ CONTROLBAR:ConstructIsengardStahlwerk
 "Build Steelwor&ks"
 END
 
-CONTROLBAR:ToolTipConstructIsengardStahlwerk 
+CONTROLBAR:ToolTipConstructIsengardStahlwerk
 "Military Support Structure \n Generates a high amount of resources \n Researches upgrades for units \n Train slaves \n Increases command point limit by 50 \n You can build one Steelworks in the same game"
 END
 
@@ -65016,7 +65069,7 @@ BANNERUI:WildMarauderSwords
 END
 
 CONTROLBAR:LW_Unit_WildMarauderSwordHorde
-"Goblin Half-Troll Swordsmen Battalion" 
+"Goblin Half-Troll Swordsmen Battalion"
 END
 
 CONTROLBAR:LW_Unit_WildMarauderSwordHordePlural
@@ -68039,27 +68092,27 @@ CONTROLBAR:LW_ToolTip_Azog
 END
 
 CONTROLBAR:ToggleStanceBattle
-"Battle Stance"
+"Posture de combat"
 END
 
 CONTROLBAR:ToolTipToggleStanceBattle
-"Shortcut: F \n This is the default unit stance \n They will auto-acquire enemies within a medium range"
+"Raccourci : F\nC'est la posture par défaut des unités.\nL'ennemi est ciblé lorsqu'il est à portée de tir."
 END
 
 CONTROLBAR:ToggleStanceAggressive
-"Aggressive Stance"
+"Posture aggressive"
 END
 
 CONTROLBAR:ToolTipToggleStanceAggressive
-"Shortcut: D \n Units gain an increase to their attack damage, but a decrease to their armor \n They will auto-acquire enemies when sighted"
+"Raccourci : D\nLes dégâts infligés par les unités augmentent, mais leur armure est moins importante.\nL'ennemi est ciblé automatiquement dès qu'il est en vue."
 END
 
 CONTROLBAR:ToggleStanceHoldGround
-"Hold Ground Stance"
+"Posture défensive"
 END
 
 CONTROLBAR:ToolTipToggleStanceHoldGround
-"Shortcut: G \n Units gain an increase to their armor, but a decrease to their attack damage \n They will not auto-acquire enemies"
+"Raccourci : G\nL'armure des unités est augmentée, mais les dégâts qu'elles infligent sont moins importants.\nLes ennemis ne sont pas ciblés automatiquement."
 END
 
 APT:RegionUnified
@@ -69139,7 +69192,7 @@ CONTROLBAR:SharkuManEater
 END
 
 CONTROLBAR:ToolTipSharkuManEater
-"Requires: Level 10 \n Kill target enemy which restores Sharku's health and temporarily grants +50% damage and +50% armor \n Left-click icon then left click on target enemy \n Does not stack" 
+"Requires: Level 10 \n Kill target enemy which restores Sharku's health and temporarily grants +50% damage and +50% armor \n Left-click icon then left click on target enemy \n Does not stack"
 END
 
 CONTROLBAR:ToolTipSharkuManEater
@@ -69175,7 +69228,7 @@ CONTROLBAR:HaldirGoldenArrow
 END
 
 CONTROLBAR:ToolTipHaldirGoldenArrow
-"Requires: Level 4 \n A high damage attack that also stuns light-sensitive units \n Left click icon then left click on target" 
+"Requires: Level 4 \n A high damage attack that also stuns light-sensitive units \n Left click icon then left click on target"
 END
 
 CONTROLBAR:GlorfindelBladeOfPurity
@@ -69199,7 +69252,7 @@ CONTROLBAR:GlorfindelStarlight
 END
 
 CONTROLBAR:ToolTipGlorfindelStarlight
-"Requires: Level 10 \n Nearby allies become healed and gain +50% damage, +50% armor, \n and earn experience twice as fast \n Left click to activate" 
+"Requires: Level 10 \n Nearby allies become healed and gain +50% damage, +50% armor, \n and earn experience twice as fast \n Left click to activate"
 END
 
 CONTROLBAR:WildWalk
@@ -71380,7 +71433,7 @@ OBJECT:Test_CorsairSky
 END
 
 OBJECT:TheGreenDragon
-"The Green Dragon Inn" 
+"The Green Dragon Inn"
 END
 
 OBJECT:TheOneRing
@@ -72915,7 +72968,7 @@ CONTROLBAR:ShelobHotkey
 "&Shelob"
 END
 
-CONTROLBAR:BlackRiderRevive	
+CONTROLBAR:BlackRiderRevive
 "Revive the fallen Nazgûl"
 END
 
@@ -84645,7 +84698,7 @@ CONTROLBAR:ArnorLongShotAbility
 "Longsho&t"
 END
 
-CONTROLBAR:TooltipArnorLongShotAbility 
+CONTROLBAR:TooltipArnorLongShotAbility
 "The rangers bombard anywhere on the map with a volley of arrows \n Left click icon then left click on target area"
 END
 
@@ -85025,7 +85078,7 @@ OBJECT:HordeBlackRiders
 "Black Riders"
 END
 
-CONTROLBAR:BlackRiderRecruit	
+CONTROLBAR:BlackRiderRecruit
 "Recruit Blac&k Riders"
 END
 
@@ -85101,7 +85154,7 @@ CONTROLBAR:ToolTipGothmogDayoftheOrc
 "Requires: Level 6 \n Orcs near Gothmog gain \n +50% damage, +50% armor, \n Passive ability \n Does not stack"
 END
 
-CONTROLBAR:SpecialAbilityGothmogCarnage    
+CONTROLBAR:SpecialAbilityGothmogCarnage
 "Fur&y"
 END
 
@@ -88470,7 +88523,7 @@ CONTROLBAR:FingolfinRochallor
 END
 
 CONTROLBAR:TooltipFingolfinRochallor
-"Requires: Level 5 \n Call de withe horse one of the Mearas. \n Rochallor is the great warhorse of Fingolfin. \n Left click to mount and dismount" 
+"Requires: Level 5 \n Call de withe horse one of the Mearas. \n Rochallor is the great warhorse of Fingolfin. \n Left click to mount and dismount"
 END
 
 CONTROLBAR:FingolfinCiclon
@@ -88592,7 +88645,7 @@ CONTROLBAR:ToolTipTulkasStomp
 END
 
 
-OBJECT:GondolinTurgon 
+OBJECT:GondolinTurgon
 "Turgon"
 END
 
@@ -88653,7 +88706,7 @@ CONTROLBAR:TooltipTurgonGondolinTower
 END
 
 
-OBJECT:GondolinEcthelion  
+OBJECT:GondolinEcthelion
 "Ecthelion of the Fountain"
 END
 
@@ -88773,7 +88826,7 @@ CONTROLBAR:LW_ToolTip_DoriathThingol
 END
 
 CONTROLBAR:DoriathThingolRecruit
-"Recruit one of three ambassadors (along with Ingwë and Finwë) \n that accompanied Oromë to Valinor, \n also King of Doriath and High King of the Sindar" 
+"Recruit one of three ambassadors (along with Ingwë and Finwë) \n that accompanied Oromë to Valinor, \n also King of Doriath and High King of the Sindar"
 END
 
 CONTROLBAR:DoriathThingolRevive
@@ -88816,7 +88869,7 @@ CONTROLBAR:ToolTipThingolMagicShield
 "Requires: Level 8 \n Hurin give as a gift to Thingol to Naglumir, \n necklace made for Finrod Felagund by the Dwarves of Ered Luin. \n Crimp with gems brought from Valinor was light in the neck, \n despite its heavy weight. \n Give beauty and grace to the wearer. \n Thingol obtained more resistance to magic attacks. \n Passive ability"
 END
 
-CONTROLBAR:ThingolWordOfPower 
+CONTROLBAR:ThingolWordOfPower
 "&Word of Power"
 END
 
@@ -88874,7 +88927,7 @@ CONTROLBAR:MablungMounted
 END
 
 CONTROLBAR:TooltipMablungMounted
-"Requires: Level 5 \n Mablung will mount his horse. \n Left click to mount and dismount" 
+"Requires: Level 5 \n Mablung will mount his horse. \n Left click to mount and dismount"
 END
 
 CONTROLBAR:MablungGraceofMerethAderthad
@@ -88971,11 +89024,11 @@ CONTROLBAR:LW_Hero_AlqualondOlwe
 "Olwë"
 END
 
-CONTROLBAR:AlqualondOlweRecruit    
+CONTROLBAR:AlqualondOlweRecruit
 "Recruit the King of the Teleri in Aman"
 END
 
-CONTROLBAR:AlqualondOlweRevive    
+CONTROLBAR:AlqualondOlweRevive
 "Revive the fallen Hero, Olwë"
 END
 
@@ -89020,7 +89073,7 @@ CONTROLBAR:OlweMounted
 END
 
 CONTROLBAR:TooltipOlweMounted
-"Olwë will mount his white horse \n Left-click to mount and dismount" 
+"Olwë will mount his white horse \n Left-click to mount and dismount"
 END
 
 CONTROLBAR:OlweFlooding
@@ -89322,7 +89375,7 @@ CONTROLBAR:LuhtienSong
 END
 
 CONTROLBAR:ToolTipLuhtienSong
-"Requires: Level 10 \n The magic song of Lúthien paralyzing all enemy units around the map for 60 seconds. \n Lúthien remain motionless during the singing. \n Left click to activate" 
+"Requires: Level 10 \n The magic song of Lúthien paralyzing all enemy units around the map for 60 seconds. \n Lúthien remain motionless during the singing. \n Left click to activate"
 END
 
 OBJECT:ValinorHuan
@@ -89331,7 +89384,7 @@ END
 
 CONTROLBAR:ValinorHuantHotkey
 "&Huan"
-END 
+END
 
 CONTROLBAR:HuanProtectionPresence
 "Huan´s Presence"
@@ -89427,11 +89480,11 @@ CONTROLBAR:LW_Hero_NargothrondFinrod
 "Finrod Felagund"
 END
 
-CONTROLBAR:NargothrondFinrodRecruit    
+CONTROLBAR:NargothrondFinrodRecruit
 "Recruit the most beloved elf by the Edain"
 END
 
-CONTROLBAR:NargothrondFinrodRevive    
+CONTROLBAR:NargothrondFinrodRevive
 "Revive the fallen Hero, Finrod Felagund"
 END
 
@@ -89720,7 +89773,7 @@ CONTROLBAR:TindomielProtection
 END
 
 CONTROLBAR:ToolTipTindomielProtection
-"Requires: Level 7 \n All heroes around Tindómiel gain 50% armor and gain experience faster. \n Passive ability" 
+"Requires: Level 7 \n All heroes around Tindómiel gain 50% armor and gain experience faster. \n Passive ability"
 END
 
 CONTROLBAR:TindomielLoudwater
@@ -89765,11 +89818,11 @@ CONTROLBAR:LW_ToolTip_VanyarIngwe
 "Hero\n"
 END
 
-CONTROLBAR:VanyarIngweRecruit    
+CONTROLBAR:VanyarIngweRecruit
 "Recruit Ingwë King of the Vanyar, \n and considered the High King of the Eldar"
 END
 
-CONTROLBAR:VanyarIngweRevive    
+CONTROLBAR:VanyarIngweRevive
 "Revive the fallen Hero, Ingwë"
 END
 
@@ -90133,7 +90186,7 @@ CONTROLBAR:ToolTipSummonValinorEonwe
 "Requires: Fortress Level 3 \n Summon Eönwë, \n the most powerful warrior in Arda and also banner-bearer of Manwë. \n Left click to activate"
 END
 
-CONTROLBAR:EonweManweHerald 
+CONTROLBAR:EonweManweHerald
 "Manwë Herald"
 END
 
@@ -90333,7 +90386,7 @@ CONTROLBAR:ToolTipTelcharUnitsLeadership
 END
 
 
-OBJECT:EregionCelebrimbor 
+OBJECT:EregionCelebrimbor
 "Celebrimbor"
 END
 
@@ -90575,7 +90628,7 @@ CONTROLBAR:ToolTipBuildFormenosEliteHorde
 "Requires Formenos Fortress Level 5 \n Unit Type: Elite Infantry \n Strong vs: Heroes \n You can only train two battalions"
 END
 
-CONTROLBAR:SpecialAbilityFormenosLeadership 
+CONTROLBAR:SpecialAbilityFormenosLeadership
 "Formenos Favor"
 END
 
@@ -90656,7 +90709,7 @@ CONTROLBAR:FormenosArcherLeadership
 "Beyond the Darkness"
 END
 
-CONTROLBAR:TooltipFormenosArcherLeadership 
+CONTROLBAR:TooltipFormenosArcherLeadership
 "Requires: Level 2 \n Allies near the Formenos Archers gain +25% vision. \n Passive ability"
 END
 
@@ -91209,7 +91262,7 @@ CONTROLBAR:ToggleMenegrothEliteFormation
 "Circle For&mation"
 END
 
-CONTROLBAR:ToolTipToggleMenegrothEliteFormation_Neu 
+CONTROLBAR:ToolTipToggleMenegrothEliteFormation_Neu
 "+40% Speed, -25% Attack"
 END
 
@@ -91703,7 +91756,7 @@ CONTROLBAR:LW_ToolTip_NargothrondHammerHorde
 "\nUnit Type: Elite Infantry\nStrong vs: Monster"
 END
 
-CONTROLBAR:NargothrondToggleBlockFormation    
+CONTROLBAR:NargothrondToggleBlockFormation
 "Defensive For&mation"
 END
 
@@ -91714,7 +91767,7 @@ END
 CONTROLBAR:NargothrondToolTipToggleGFighterLineToBlockFormation
 "Requires: Level 2 \n +25% Armor, -40% Speed"
 END
-   
+
 CONTROLBAR:NargothrondToolTipToggleGFighterBlockToLineFormation
 "No Bonus"
 END
@@ -91723,7 +91776,7 @@ CONTROLBAR:NargothrondHammerLeadership
 "The latest defenders of Tumhalad"
 END
 
-CONTROLBAR:TooltipNargothrondHammerLeadership 
+CONTROLBAR:TooltipNargothrondHammerLeadership
 "The monster units around the Hammers of Nargaroth \n lose 25% Speed and 75% Vision \n Passive ability"
 END
 
@@ -92567,11 +92620,11 @@ CONTROLBAR:ToolTipSummonTolinGaurhothTarMairon
 "Requires: Fortress Level 3 \n Summon Tar-Mairon, \n one of the powerful Maia and Lieutenant of Melkor in Angband. \n Left click to activate"
 END
 
-CONTROLBAR:TarMaironLeadership 
+CONTROLBAR:TarMaironLeadership
 "Lieutenant of Angband"
 END
 
-CONTROLBAR:ToolTipTarMaironLeadership 
+CONTROLBAR:ToolTipTarMaironLeadership
 "After joining his new master in Middle-earth, \n Tar-Mairon proved to be a devoted and capable servant. \n He thus was often able to achieve things, \n first conceived by Melkor, which his master did not or could not complete in the furious haste of his malice. \n As a result of learning the powers of Tar-Mairon growing. \n All heroes recharge his powers 50% faster. \n Enemy infantry, is weakened against cavalry attacks \n and acquiring of experience is reduced. \n Passive ability"
 END
 
@@ -92687,7 +92740,7 @@ CONTROLBAR:AngbandGothmogRevive
 "Revive the fallen Hero, Gothmog"
 END
 
-CONTROLBAR:AngbandGothmogHotkey 
+CONTROLBAR:AngbandGothmogHotkey
 "&Gothmog"
 END
 
@@ -92819,15 +92872,15 @@ END
 
 CONTROLBAR:AvatharUngoliantRecruit
 "Requires: Underworld Portal Level 3\n Summon Ungoliant,\n a demon in spider form who helped Melkor destroy the Two Trees of Valinor"
-END    
+END
 
 CONTROLBAR:AvatharUngoliantRevive
 "Revive the fallen Hero, Ungoliant"
-END  
-  
+END
+
 CONTROLBAR:AvatharUngoliantHotkey
 "&Ungoliant"
-END    
+END
 
 CONTROLBAR:SummonAvatharUngoliant
 "Summon Ungoliant"
@@ -92958,11 +93011,11 @@ END
 CONTROLBAR:AngbandCarcharothRecruit
 "Recruit the great wolf, \n guardian of the gates of Angband"
 END
- 
-CONTROLBAR:AngbandCarcharothRevive  
+
+CONTROLBAR:AngbandCarcharothRevive
 "Revive the fallen Hero, Carcharoth"
 END
-  
+
 CONTROLBAR:AngbandCarcharothHotkey
 "&Carcharot"
 END
@@ -93097,7 +93150,7 @@ CONTROLBAR:ThargelioUldorMounted
 END
 
 CONTROLBAR:TooltipThargelioUldorMounted
-"Requires: Level 5 \n Uldor will mount his horse \n Left click to mount and dismount" 
+"Requires: Level 5 \n Uldor will mount his horse \n Left click to mount and dismount"
 END
 
 CONTROLBAR:ThargelioUldorCrippleStrike
@@ -93129,7 +93182,7 @@ OBJECT:TolinGaurhothThuringwethil
 "Thuringwethil"
 END
 
-CONTROLBAR:LW_Hero_TolinGaurhothThuringwethil 
+CONTROLBAR:LW_Hero_TolinGaurhothThuringwethil
 "Thuringwethil"
 END
 
@@ -93166,7 +93219,7 @@ CONTROLBAR:ThuringwethilMounted
 END
 
 CONTROLBAR:ToolTipThuringwethilMounted
-"Thuringwethil will transform into a vampire bat. \n Left click to transform" 
+"Thuringwethil will transform into a vampire bat. \n Left click to transform"
 END
 
 CONTROLBAR:ThuringwethilUnMounted
@@ -93572,7 +93625,7 @@ END
 
 CONTROLBAR:PurchaseUpgradeAngbandFortressTowersSpire
 "Towers of Thangorodrim"
-END 
+END
 
 CONTROLBAR:ToolTipPurchaseUpgradeAngbandFortressTowersSpire
 "Constructs the towers of Thangorodrim, gives experience to nearby units"
@@ -94195,7 +94248,7 @@ END
 
 CONTROLBAR:PurchaseUpgradeTolinGaurhothSorcery
 "Tol-in-Gaurhoth Sorcery"
-END 
+END
 
 CONTROLBAR:ToolTipPurchaseUpgradeTolinGaurhothSorcery
 "Give attributes to allied units and poisons enemy units"
@@ -94633,7 +94686,7 @@ CONTROLBAR:UnderworldSoulCollectorLeadership
 "Judge of Lost Souls"
 END
 
-CONTROLBAR:TooltipUnderworldSoulCollectorLeadership  
+CONTROLBAR:TooltipUnderworldSoulCollectorLeadership
 "Requires: Level 2 \n The presence this evil spirit scares his enemies \n Significantly reduces enemy armor and speed \n Passive ability"
 END
 
@@ -94738,11 +94791,11 @@ CONTROLBAR:LW_Hero_ThlimDoldronMaeglin
 "Maeglin"
 END
 
-CONTROLBAR:ThlimDoldronMaeglinRecruit    
+CONTROLBAR:ThlimDoldronMaeglinRecruit
 "Recruit the traitor of Gondolin, Maeglin"
 END
 
-CONTROLBAR:ThlimDoldronMaeglinRevive    
+CONTROLBAR:ThlimDoldronMaeglinRevive
 "Revive the fallen hero, Maeglin"
 END
 
@@ -95573,7 +95626,7 @@ END
 
 OBJECT:ArthedianSpearmenHorde
 "Arthedian Spearmen"
-END 
+END
 
 OBJECT:ArthedianSwordsmen
 "Arthedian Swordmen"
@@ -95649,15 +95702,15 @@ END
 
 CONTROLBAR:ConstructArnorAmonsulGuardianHorde
 "Amon Sul Guardians"
-END 
+END
 
 CONTROLBAR:ToolTipBuildArnorAmonsulGuardianHorde
 "Requires level 2 Arnor Barracks \n Strong vs Monsters and Heros \n You can control a maximum of five hordes"
-END 
+END
 
 CONTROLBAR:ConstructArnorFornostGuardianHorde
 "Fornost Guardians"
-END 
+END
 
 CONTROLBAR:ToolTipBuildArnorFornostGuardianHorde
 "Requires level 3 Arnor Barracks \n Heroic Unit, Strong vs All \n The Arnor Fornost Guardians have excellent armor and damage \n You can control a maximum of two battalions"
@@ -97070,7 +97123,7 @@ CONTROLBAR:ArgelebKraftderEdain_Stufe2
 END
 
 CONTROLBAR:ToolTipArgelebKraftderEdain_Stufe2
-"In memory of the actions and legacy of his ancestors, Argeleb is hit by a tremendous realization\n For 60 seconds, Argeleb deals +100% damage and gains 25% faster experience \n Left-click to activate" 
+"In memory of the actions and legacy of his ancestors, Argeleb is hit by a tremendous realization\n For 60 seconds, Argeleb deals +100% damage and gains 25% faster experience \n Left-click to activate"
 END
 
 CONTROLBAR:ArgelebKraftderEdain_Stufe3
@@ -97435,7 +97488,7 @@ CONTROLBAR:TooltipErdenhammerderZwerge
 "The dwarves have crafted their secret weapon and are ready to watch their enemies literally crumble \n The Earth Hammer targets an area of land, causing a large earthquake \n Left-click on the desired target area"
 END
 
-CONTROLBAR:MausoleumSummonNain 
+CONTROLBAR:MausoleumSummonNain
 "Nàin II"
 END
 
@@ -97664,7 +97717,7 @@ CONTROLBAR:DainDrachenschatz
 END
 
 CONTROLBAR:TooltipDainDrachenschatz
-"Requires: Level 9 \n Dain proves to be a wise and benevolent king \n He distributes some of the riches to all those that put their lives on the line for in his defense \n Summons some treasure chests on the battlefield, which can be taken by all players \n Left-click on the desired target area" 
+"Requires: Level 9 \n Dain proves to be a wise and benevolent king \n He distributes some of the riches to all those that put their lives on the line for in his defense \n Summons some treasure chests on the battlefield, which can be taken by all players \n Left-click on the desired target area"
 END
 
 CONTROLBAR:BilboDerMeisterdieb
@@ -98668,7 +98721,7 @@ CONTROLBAR:DienerdesgeheimenFeuers
 END
 
 CONTROLBAR:ToolTipDienerdesgeheimenFeuers
-"Requires: Level 7 \n The Gray Wizard uses his hidden power in the form of fire spells. \n For a short time, Glamding begins to shine in a bright light. Each time Gandalf strikes with Glamdring, a wall of flames rises, damaging all enemies in the vicinity \n Left-click to activate" 
+"Requires: Level 7 \n The Gray Wizard uses his hidden power in the form of fire spells. \n For a short time, Glamding begins to shine in a bright light. Each time Gandalf strikes with Glamdring, a wall of flames rises, damaging all enemies in the vicinity \n Left-click to activate"
 END
 
 CONTROLBAR:DuKannstnichtvorbei
@@ -100158,7 +100211,7 @@ CONTROLBAR:TooltipDieDreiJäger_Legolas
 END
 
 CONTROLBAR:ToolTipHawkStrike_Submod
-"Requires: Level 3 \n Legolas attacks the selected target with two arrows that deal massive damage \n Left-click the desired target" 
+"Requires: Level 3 \n Legolas attacks the selected target with two arrows that deal massive damage \n Left-click the desired target"
 END
 
 CONTROLBAR:WettkampfLegolas
@@ -100805,7 +100858,7 @@ CONTROLBAR:GorthaurVerwandlungenToggle
 END
 
 CONTROLBAR:ToolTipGorthaurVerwandlungenToggle
-"Gorthaur's most dangerous gift was the ability of all the Maiars who were not bound by a closer covenant \n He could change his form at any time and thus play different roles to the free peoples or press them in the fight \n Switches to the Transfiguration Palantir" 
+"Gorthaur's most dangerous gift was the ability of all the Maiars who were not bound by a closer covenant \n He could change his form at any time and thus play different roles to the free peoples or press them in the fight \n Switches to the Transfiguration Palantir"
 END
 
 CONTROLBAR:GorthaurMachtderMaiardeaktivieren
@@ -101421,7 +101474,7 @@ CONTROLBAR:WitchkingMorgulmacht_neu
 END
 
 CONTROLBAR:ToolTipWitchkingMorgulmacht_neu
-"Requires: Necromancer Level 8 \n The Witch-king of Angmar is a master of the Dark Arts \n The Black Master's power manifests in a beam that reflects the poisonous glow of his accursed city \n Units struck by the beam are heavily poisoned and some grave monsters are summoned to the battlefield \n Left-click the desired target" 
+"Requires: Necromancer Level 8 \n The Witch-king of Angmar is a master of the Dark Arts \n The Black Master's power manifests in a beam that reflects the poisonous glow of his accursed city \n Units struck by the beam are heavily poisoned and some grave monsters are summoned to the battlefield \n Left-click the desired target"
 END
 
 CONTROLBAR:ToolTipWitchkingHauchderSchattenwelt
@@ -101551,7 +101604,7 @@ CONTROLBAR:HerrderOstfoldEomer
 END
 
 CONTROLBAR:ToolTipHerrderOstfoldEomer2
-"Requires: Theoden was healed and level 3 \n Theoden shakes off the influence of Saruman and calls his sister's son back from exile \n From now on, Éomer can exploit his full potential as a leader. Éomer and allies near him are 10% faster, collect resources for defeated enemies, and gain 50% faster experience \n Passive ability" 
+"Requires: Theoden was healed and level 3 \n Theoden shakes off the influence of Saruman and calls his sister's son back from exile \n From now on, Éomer can exploit his full potential as a leader. Éomer and allies near him are 10% faster, collect resources for defeated enemies, and gain 50% faster experience \n Passive ability"
 END
 
 CONTROLBAR:TogglePalantirEomer1
@@ -101591,7 +101644,7 @@ CONTROLBAR:EomerErbeRohans
 END
 
 CONTROLBAR:ToolTipEomerErbeRohans
-"Requires: Theoden has died at least once and level 3 \n Éomer, after the death of his uncle, ascends the throne of Rohan and leads the armies of the Rohirrim into the final war against the powers of the Shadow \n Éomer and allies near him are 10% faster, collect resources for defeated enemies, and gain 50% faster experience \n Cavalry slows down 50% when trampling \n Passive Ability" 
+"Requires: Theoden has died at least once and level 3 \n Éomer, after the death of his uncle, ascends the throne of Rohan and leads the armies of the Rohirrim into the final war against the powers of the Shadow \n Éomer and allies near him are 10% faster, collect resources for defeated enemies, and gain 50% faster experience \n Cavalry slows down 50% when trampling \n Passive Ability"
 END
 
 CONTROLBAR:TogglePalantirEowyn1
@@ -102854,11 +102907,11 @@ UPGRADE:GollumAbscheulicherVerrat
 "Despicable Betrayal"
 END
 
-CONTROLBAR:ToolTipGollumAbscheulicherVerrat 
+CONTROLBAR:ToolTipGollumAbscheulicherVerrat
 "Requires: Level 10 \n Gollum lures allies and enemies into a trap to get the ring \n Calls Shelob to the battlefield \n Shelob attacks ALL units in range \n Left-click on the icon and then on a passable area"
 END
 
-CONTROLBAR:ToolTipGollumAbscheulicherVerrat 
+CONTROLBAR:ToolTipGollumAbscheulicherVerrat
 "Requires: Level 10 \n Gollum lures allies and enemies into a trap to get the ring \n Calls Shelob to the battlefield \n Shelob attacks ALL units in range \n Left-click on the icon and then on a passable area"
 END
 
@@ -103385,7 +103438,7 @@ CONTROLBAR:ConstructEvilMenTavern
 "Tavern"
 END
 
-CONTROLBAR:ToolTipEvilMenTavern	
+CONTROLBAR:ToolTipEvilMenTavern
 "Build Tavern to train corsairs"
 END
 
