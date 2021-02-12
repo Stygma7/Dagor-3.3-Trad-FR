@@ -28418,55 +28418,27 @@ GUI:ControlBarBack
 END
 
 APT:Otherplayerisready
-"Other player is ready"
+" Le(s) joueur(s) sont prêt"
 END
 
 APT:ExitWithoutSaving
-"Are you sure you want to exit without saving?"
+"Etes-vous sûr de vouloir quitter sans sauvegarder?"
 END
 
 APT:AreYouSureYouWantToRestart
-"Are you sure you want to restart?"
+"Etes-vous sûr que vous voulez recommencer?"
 END
 
 APT:AreYouSureYouWantToRestartMessage
-"Are you sure you want to restart?"
+"Etes-vous sûr que vous voulez recommencer?"
 END
 
 APT:AreYouSureYouWantToSurrenderMessage
-"Are you sure you want to surrender?"
+"Es tu sûr de vouloir capituler?"
 END
 
 APT:AreYouSureYouWantToForfeitMessage
-"Are you sure you want to forfeit?"
-END
-
-APT:WorldMapTutorial
-"WORLD MAP"
-END
-
-APT:ArmiesTutorial
-"ARMIES"
-END
-
-APT:HeroesTutorial
-"HEROES"
-END
-
-APT:CastlesTutorial
-"CASTLES"
-END
-
-APT:SpecialPowersTutorial
-"SPECIAL POWERS"
-END
-
-APT:Moves&AttacksTutorial
-"MOVES AND ATTACKS"
-END
-
-APT:Bases&UnitsTutorial
-"BASES AND UNITS"
+"Es tu sûr de vouloir déclarer forfait?"
 END
 
 APT:VeterancyTitle
@@ -28495,119 +28467,115 @@ APT:RenameInstructions
 END
 
 APT:EnemiesThisBattle
-"Enemies Defeated in this Battle"
+"Ennemis tués dans cette bataille"
 END
 
 APT:TotalEnemiesDefeated
-"Total\nEnemies\nDefeated"
+"Total\nEnnemies\nTués"
 END
 
 APT:Bases&UnitsTitle
-"Bases and Units"
+"Bases et Unitées"
 END
 
 APT:Moves&AttacksTitle
-"Moves and Attacks"
+"Mouvements et Attaques"
 END
 
 APT:WorldMapTitle
-"World Map"
+"Carte du monde"
 END
 
 APT:ArmiesTitle
-"Armies"
+"Armées"
 END
 
 APT:HeroesTitle
-"Heroes"
+"Héros"
 END
 
 APT:CastlesTitle
-"Castles"
+"Forteresse"
 END
 
 APT:SpecialPowersTitle
-"Special Powers"
+"Pouvoirs spéciaux"
 END
 
 APT:BattleSchoolTitle
-"Battle School"
+"Ecoles de combat"
 END
 
 APT:Send
-"SEND"
+"Envoyer"
 END
 
 APT:LoadSaveGame
-"LOAD/SAVE GAME"
+"Sauvegarder/Charger la partie"
 END
 
 APT:LoadGame
-"LOAD"
+"Charger"
 END
 
 APT:HeaderLoadSavedGame
-"LOAD SAVED GAME"
+"Charger la sauvegarde de la partie"
 END
 
 APT:HeaderLoadSavedReplay
-"LOAD SAVED REPLAY"
+"Charger la sauvegarde du replay"
 END
 
 APT:HeaderSaveGame
-"SAVE GAME"
+"Sauvegarder la partie"
 END
 
 APT:HeaderSaveReplay
-"SAVE REPLAY"
-END
-
-APT:BattleSchool
-"BATTLE SCHOOL"
+"Sauvegarder le replay"
 END
 
 APT:LoadScreenPlayers
-"Player"
+"Joueur"
 END
 
 APT:SaveGame
-"SAVE"
+"Sauvegarder"
 END
 
 APT:Save
-"SAVE"
+"Sauvegarder"
 END
 
 APT:SaveGameProgress
-"Save Progress"
+"Sauvegarder Progression"
 END
 
 APT:SaveGameMultiplayerConfirmationTitle
-"Save Request"
+"voulez vous sauvegarder"
 END
 
 APT:ConfirmMultiplayerSave
-"The other player would like to save the session. Do you agree?"
+"L’autre joueur aimerait enregistrer la partie. Êtes-vous d’accord?"
 END
 
 APT:ConfirmMultiplayerSaveWithOverwrite
-"The other player would like to save the session.\nThis will overwrite the previous save game with the name '%s'.\nDo you agree?"
+"L’autre joueur aimerait enregistrer la session.\nCela va écraser la partie précédente, enregistrer avec le nom '%s'.\nÊtes-vous d’accord?"
 END
 
 APT:MultiplayerSaveDenied
-"The other player rejected your save game request."
+"L’autre joueur a rejeté votre demande de sauvegarde."
 END
 
 APT:MultiplayerSaveDeniedAutoDenied
-"The other player is busy and cannot save now, they should be able to save momentarily."
+"L’autre joueur est occupé et ne peut pas enregistrer maintenant, ils devraient être en mesure d’enregistrer momentanément."
 END
 
 APT:MultiplayerSaveDeniedNoSpace
-"The other player cannot save because they are out of hard drive space."
+"L’autre joueur ne peut pas sauvegarder parce qu’il n'a plus d’espace dans son disque dur."
 END
 
 APT:GameSelectorTab
-"GAME"
+"Partie"
 END
 
 APT:ReplaySelectorTab
@@ -28635,7 +28603,7 @@ APT:HeaderAutoSave
 END
 
 APT:NameFile
-"Name File"
+"Nom du fichier"
 END
 
 APT:Mission
@@ -28643,7 +28611,7 @@ APT:Mission
 END
 
 APT:OverwriteSaveConfirmation
-"Overwrite existing file?"
+"Écraser le fichier existant ?"
 END
 
 APT:SavingWait
@@ -28651,31 +28619,31 @@ APT:SavingWait
 END
 
 APT:SavingWaitOnMultiplayer
-"Waiting for opponent to accept save request..."
+"En attente que l’adversaire accepte la demande de pause..."
 END
 
 APT:ConnectionSettings
-"Connection Settings"
+"Paramètres de connexion"
 END
 
 APT:MaxPing
-"Max. Ping."
+"Max Ping."
 END
 
 APT:DisconnectMenu
-"DISCONNECT MENU"
+"MENU De Déconnexion"
 END
 
 APT:MaxDisconnects
-"Max Disconnects"
+"Max Déconnecter"
 END
 
 APT:LoadGameConfirmation
-"Current game data will be lost. Load saved file?"
+"Les données actuelles du jeu seront perdues. Charge fichier enregistré?"
 END
 
 APT:DeleteGameConfirmation
-"Are you sure you would like to delete the selected file?"
+"Etes-vous sûr que vous souhaitez supprimer le fichier sélectionné ?"
 END
 
 APT:ConfirmationOk
@@ -28683,91 +28651,75 @@ APT:ConfirmationOk
 END
 
 APT:ConfirmationCancel
-"CANCEL"
+"Annuler"
 END
 
 APT:MainMenuLoadGame
-"LOAD GAME"
-END
-
-APT:MenuBasicTutorial
-"BASIC\nTUTORIAL"
-END
-
-APT:MenuAdvancedTutorial
-"ADVANCED\nTUTORIAL"
-END
-
-APT:MenuStrategicTutorial
-"WAR OF THE RING\nTUTORIAL"
-END
-
-APT:MenuTutorials
-"TUTORIALS"
+"CHARGER PARTIE"
 END
 
 GUI:MainMenuLoadGame
-"Load Game"
+"Charger la partie"
 END
 
 APT:LoadReplay
-"LOAD REPLAY"
+"CHARGER REPLAY"
 END
 
 APT:MultiplayerMaps
-"MULTIPLAYER MAPS"
+"CARTES MULTIJOUEURS"
 END
 
 APT:GameMode
-"GAME MODE"
+"MODE DE JEU"
 END
 
 APT:MapType
-"MAP TYPE"
+"TYPE DE CARTE"
 END
 
 APT:MapTitle
-"MAP TITLE"
+"TITRE DE LA CARTE"
 END
 
 APT:Color
-"Color"
+"Couleur"
 END
 
 APT:ColorCAPS
-"COLOR"
+"Couleur"
 END
 
 APT:ConnectionSpeed
-"Connection Speed"
+"Vitesse de Connection"
 END
 
 APT:LadderHeader
-"Ladder"
+"Echelle"
 END
 
 APT:FindGames
-"JOIN GAME"
+"Rejoindre Partie"
 END
 
 APT:Side
-"Army"
+"Armées"
 END
 
 APT:PlayGame
-"PLAY GAME"
+"Lancer Partie"
 END
 
 APT:Objectives
-"OBJECTIVES"
+"OBJECTIFS"
 END
 
 APT:ObjectivesNone
-"No objectives available"
+"Aucun objectif disponible"
 END
 
 APT:PlayerStatus
-"Game Info"
+"Info sur la partie"
 END
 
 APT:HeaderClans
@@ -28775,7 +28727,7 @@ APT:HeaderClans
 END
 
 APT:HeaderPlayerName
-"Player Name"
+"Nom du joueur"
 END
 
 APT:HeaderFaction
@@ -28799,91 +28751,91 @@ APT:HeaderResources
 END
 
 APT:HeaderTributeInstructions
-"Distribute resources to send to your teammates."
+"Distribuez les ressources à envoyer à vos coéquipiers."
 END
 
 APT:CustomGameLobby
-"OPEN PLAY LOBBY"
+"PARTIE OUVERTE"
 END
 
 APT:CommandPointLimit
-"Command Point Limit"
+"Facteur de Point de Commandement"
 END
 
 APT:CurrentMapName
-"Current Map Name"
+"Nom de la carte"
 END
 
 APT:FilterProfanity
-"Filter Profanity"
+"Qualité de filtre"
 END
 
 APT:InitialBuildings
-"Initial Buildings"
+"Batimments initial"
 END
 
 APT:InitialNumberOfPeons
-"Initial Number of Peons"
+"Nombre initial de batisseurs"
 END
 
 APT:InitialNumberOfUnits
-"Initial Number of Units"
+"Nombre initial d'unitées"
 END
 
 APT:InitialResources
-"Initial Resources"
+"Resources initial"
 END
 
 APT:InitialSpellPoints
-"Initial Power Points"
+"Point de pouvoir initial"
 END
 
 APT:LobbyGameTypeTiltle
-"Lobby Game Type Tiltle"
+"Type de partie"
 END
 
 APT:LobbyMapTiltle
-"Current Map"
+"Carte actuelle"
 END
 
 APT:Map
-"Map"
+"Carte"
 END
 
 APT:TabMap
-"MAP"
+"CARTE"
 END
 
 APT:TabRules
-"RULES"
+"Règles"
 END
 
 APT:TabChat
-"CHAT"
+"TCHAT"
 END
 
 APT:TabClans
-"CLANS"
+"CAMPS"
 END
 
 APT:HeaderPlayers
-"Players"
+"Joueurs"
 END
 
 APT:HeaderClanName
-"Clan Tag"
+"Bannière de Camp"
 END
 
 APT:HeaderChat
-"Chat"
+"Tchat"
 END
 
 APT:Clan
-"Clan"
+"Camp"
 END
 
 APT:NoCreatedHeroes
-"No Created Heroes"
+"Désactivez"
 END
 
 APT:Ping
@@ -28895,11 +28847,11 @@ APT:Players
 END
 
 APT:Rules
-"Rules"
+"Règles"
 END
 
 APT:ShroudSettings
-"Shroud Settings"
+"Paramètre linceul"
 END
 
 APT:Status
@@ -28907,11 +28859,11 @@ APT:Status
 END
 
 APT:PlayerName
-"Player\nName"
+"Joueur\nNom"
 END
 
 APT:ClassTitle
-"CLASS"
+"CLASSE"
 END
 
 APT:TypeTitle
@@ -28919,55 +28871,35 @@ APT:TypeTitle
 END
 
 APT:GameSetup
-"GAME SETUP"
+"CONFIGURATION DE LA PARTIE"
 END
 
 APT:GameSpeed
-"GAME SPEED"
+"VITESSE DE JEU"
 END
 
 APT:HostGame
-"CREATE GAME"
-END
-
-URL:LotrHome
-"http://www.hdr-sum2.de"
-END
-
-URL:GameSpyHome
-"http://arena.gamespy.com/arenaportal/bfme2"
-END
-
-URL:ClanWarsHome
-"http://www.clanwars.cc?league29"
-END
-
-URL:LotrLadder
-"http://arena.gamespy.com/bfme/"
-END
-
-URL:LotrTOS
-"http://de.ea.com/global/legal/tos.jsp"
+"CREE UNE PARTIE"
 END
 
 GUI:ChatRoom1
-"War of the Ring"
+"Guerre de l'Anneau"
 END
 
 GUI:ChatRoom2
-"War of the Ring (2)"
+"Guerre de l'Anneau (2)"
 END
 
 APT:LobbyRoom
-"Lobby Room"
+"Salle des parties"
 END
 
 APT:Stats
-"STATS"
+"STATISTIQUES"
 END
 
 GUI:LobbyRoom1
-"Game Chat"
+"Tchat de Jeu"
 END
 
 GUI:LobbyRoom2
@@ -28979,19 +28911,19 @@ GUI:LobbyRoom3
 END
 
 GUI:LobbyRoom4
-"5+ Player"
+"5+ Joueurs"
 END
 
 GUI:LobbyRoom5
-"Free for All"
+"Chacun pour soi"
 END
 
 GUI:LobbyRoom6
-"Tournament"
+"Tournoi"
 END
 
 GUI:LobbyRoom7
-"Clans"
+"Camps"
 END
 
 GUI:LobbyRoom8
@@ -33165,7 +33097,7 @@ INI:FactionElves
 END
 
 INI:FactionImladris
-"Imladris"
+"Haut Elfes"
 END
 
 INI:FactionDwarves
@@ -34089,7 +34021,7 @@ TOOLTIP:Options/tooltipRetaliation
 END
 
 APT:Retaliation
-"Retaliation"
+"Représailles"
 END
 
 TOOLTIP:LanLobby/tooltipGameNames
