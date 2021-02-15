@@ -33097,7 +33097,7 @@ INI:FactionElves
 END
 
 INI:FactionImladris
-"Haut Elfes"
+"Hauts Elfes"
 END
 
 INI:FactionDwarves
@@ -95505,7 +95505,7 @@ CONTROLBAR:ToolTipConstructArnorModBarracks
 END
 
 OBJECT:ArnorLASpearmenk
-"Arthedian Spearmen"
+"Milice de vougier de Tharbad"
 END
 
 CONTROLBAR:PurchaseTechnologyArnorModHeavyArmor
@@ -95513,7 +95513,7 @@ CONTROLBAR:PurchaseTechnologyArnorModHeavyArmor
 END
 
 OBJECT:ArnorLASpearmenk
-"Arthedian Spearmen"
+"Milice de vougier de Tharbad"
 END
 
 CONTROLBAR:PurchaseTechnologyArnorModHeavyArmor
@@ -95553,7 +95553,7 @@ OBJECT:ArthedianSwordsmen
 END
 
 OBJECT:ArthedianSwordsmenHorde
-"Arthedain Swordmen"
+"Milice marchande épéiste du Cardolan"
 END
 
 OBJECT:RoyalGuardInfantry
