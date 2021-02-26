@@ -17377,11 +17377,11 @@ CONTROLBAR:ToolTipToggleberegondWeapon
 END
 
 CONTROLBAR:SpecialAbilitySauronFlammenSchwarzesLand
-"Flames of the Black Country"
+"Flammes du pays noire"
 END
 
 CONTROLBAR:SauronHerrvonMordor
-"Lord of Mordor"
+"Seigneur du Mordor"
 END
 
 CONTROLBAR:ToolTipSpecialAbilitySauronFlammenSchwarzesLand
@@ -60003,11 +60003,11 @@ CONTROLBAR:ToolTipFireWeaponMordorFortressSpireFireball
 END
 
 CONTROLBAR:SturmaufGondor
-"Minas Morgul Unleashed"
+"Tempête de Minas Morgul "
 END
 
 CONTROLBAR:ToolTipSturmaufGondor
-"The War for Arda has begun \n The Dark Lord orders his generals to bring destruction on the Free Peoples \n Briefly, the armies of Mordor charge across the battlefield with increased speed \n The Wich-king, upon being crowned Lord of Minas Morgul, and Gothmog are sent to lead the armies in a seige against the Free Peoples, granting them new abilities\n Can only be activated if "Threat of the East" or "Call of the Black Country" is not active\n Left-click to activate"
+"La Guerre pour la Terre du Milieu a commencé\n Le Seigneur des Ténèbres ordonne à ses généraux de détruire les Peuples Libres \n Les armées du Mordor chargent sur le champ de bataille avec une vitesse accrue \ n Le Roi-Sorcier, après avoir été nommé seigneur de Minas Morgul, et Gothmog sont envoyés pour diriger les armées dans un siège contre les peuples libres, leur accordant de nouvelles capacités \ n Ne peut être activé que si "Menace de l'Est" ou "Appel du pays noir" n'est pas actif \ n Clique gauche pour activer "
 END
 
 CONTROLBAR:PurchaseUpgradeMordorFortressDoomPyres
@@ -100614,7 +100614,7 @@ CONTROLBAR:TooltipLithladAschenfeld
 END
 
 CONTROLBAR:GrenzenMordors
-"Sentinels of the Black Country"
+"Sentinelles du pays noir"
 END
 
 CONTROLBAR:TooltipGrenzenMordors
@@ -101234,19 +101234,19 @@ CONTROLBAR:ToolTipTogglePalantirKhamul1
 END
 
 CONTROLBAR:DrohungdesOstens
-"Threat of the East"
+"Menace de l'Est"
 END
 
 CONTROLBAR:ToolTipDrohungdesOstens
-"Gloomy clouds from the eastern sky come as ominous harbingers of the coming war \n All Mordor heroes breifly gather experience faster \n Khamûl, when owning Isignia of the Lieutenant, is called to lead the eastern forces, granting him additional capabilities \n Can only be activated if "Minas Morgul Unleashed" or "Call of the Black Country" is not active\n Left-click to activate"
+"Les nuages lugubres du ciel oriental sont les signes avant-coureurs de la guerre à venir \ n Tous les héros du Mordor accumulent rapidement de l'expérience \ n Khamûl, lorsqu'il possède lieutenant des 9, est appelé à diriger les forces orientales, lui octroyant des capacités supplémentaires \ n Peut seulement être activé si"Tempête deMinas Morgul" ou "Appel du pays noir" n'est pas actif \ clique bouton gauche pour activer"
 END
 
 CONTROLBAR:LichtderTotenStadt
-"Call of the Black Country"
+"Appel du pays noir"
 END
 
 CONTROLBAR:ToolTipLichtderTotenStadt
-"The Black Country exerts an attractive force on all evil creatures of Middle-earth \n Sauron embraces this beckoning to draw together huge armies within the walls of Mordor\n No one can enter the Black Country without being summoned by the Dark Lord \n Enemy units are slowed down the closer they approach the Mordor fortress \n Mollok, Shagrat and Gorbag been ordered to monitor the entrances to Mordor and get new skills \n Can only be activated if "Minas Morgul Unleashed" or "Threat of the East" is not active \n Left-click to activate"
+"Le Pays Noir exerce une force attractive sur toutes les créatures maléfiques de la Terre du Milieu \n Sauron rassemble d'énormes armées dans en pays de Mordor \ n Personne ne peut entrer dans le Pays noir sans l'accord du Seigneur des Ténèbres \ n Les unités ennemies sont ralenties à mesure qu'elles s'approchent de la forteresse du Mordor \ n Mollok, Shagrat et Gorbag reçoivent l'ordre de surveiller les entrées du Mordor et d'acquérir de nouvelles compétences \ n Ne peut être activé que si "Tempête de Minas Morgul" ou "Menace de l'Est" n'est pas actif \ n Clic gauche pour activer "
 END
 
 CONTROLBAR:ToolTipSpecialAbilityGier_Shagrat
