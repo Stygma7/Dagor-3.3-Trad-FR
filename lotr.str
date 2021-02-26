@@ -1947,31 +1947,31 @@ TOOLTIP:LackInsignienNazgul
 END
 
 UPGRADE:InsignienStatthalter
-"Insignia of the Lieutenant"
+"Insigne Capitaine des Nazguls"
 END
 
 UPGRADE:InsignienMorgulfürst
-"Insignia of the Lord of Minas Morgul"
+"Seigneur de Minas Morgul"
 END
 
 CONTROLBAR:PurchaseUpgradeInsignienMorgulfürst
-"Lordship of Minas Morgul"
+"Seigneurie de Minas Morgul"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeInsignienMorgulfürst
-"The Witch-king is instructed to lead the army of Minas Morgul into battle \n As a sign of his power, he receives a Winged Shadow mount, the infamous iron crown, and a terrible morning star to improve his skills and fighting strength\n As Minas Morgul's lord, he becomes incredibly strong with new capabilities and higher base stats\n If the Witch-king falls in battle, the regalia destroyed, but can be made anew"
+"Le roi-sorcier est chargé de mener l'armée de Minas Morgul au combat \n En signe de son pouvoir, il reçoit une monture de ailée, la tristement célèbre couronne de fer et une terrible masse d'arme pour améliorer ses compétences et sa force de combat.\n En tant que seigneur de Minas Morgul, il devient incroyablement fort avec de nouvelles capacités et des statistiques de base plus élevées \n Si le roi-sorcier tombe au combat, l'insigne est perdu mais peut être racheté"
 END
 
 CONTROLBAR:PurchaseUpgradeInsignienStatthalter
-"Lieutenant's Insignia"
+"Insigne Lieutenant des Nazguls"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeInsignienStatthalter
-"Khamûl is honored as the governor Dol Guldur \n As a sign of his power, he receives a Winged Shadow mount and a death mask, which improve his skills and combat strength\n As the armored Shadow of the East, he becomes incredibly strong with new capabilities and higher base stats\n If Khamûl falls in battle, the insignia is destroyed, but can be made anew"
+"Khamûl est honoré en tant que gouverneur Dol Guldur\n En signe de son pouvoir, il reçoit une monture ailée et un masque mortuaire, qui améliorent ses compétences et sa force de combat.\n En tant que l'Ombre de l'Orient en armure, il devient incroyablement fort avec de nouvelles capacités et des statistiques de base plus élevées.\n Si Khamûl tombe au combat, l'insigne est perdu mais peut être racheté"
 END
 
 CONTROLBAR:PurchaseUpgradeRobeSchattenfürst
-"Robe of the Shadow Prince"
+"Cape du Prince des Ténèbres"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeRobeSchattenfürst
@@ -60007,7 +60007,7 @@ CONTROLBAR:SturmaufGondor
 END
 
 CONTROLBAR:ToolTipSturmaufGondor
-"La Guerre pour la Terre du Milieu a commencé\n Le Seigneur des Ténèbres ordonne à ses généraux de détruire les Peuples Libres \n Les armées du Mordor chargent sur le champ de bataille avec une vitesse accrue \ n Le Roi-Sorcier, après avoir été nommé seigneur de Minas Morgul, et Gothmog sont envoyés pour diriger les armées dans un siège contre les peuples libres, leur accordant de nouvelles capacités \n Ne peut être activé que si "Menace de l'Est" ou "Appel du pays noir" n'est pas actif \ n Clique gauche pour activer "
+"La Guerre pour la Terre du Milieu a commencé\n Le Seigneur des Ténèbres ordonne à ses généraux de détruire les Peuples Libres \n Les armées du Mordor chargent sur le champ de bataille avec une vitesse accrue \n Le Roi-Sorcier, après avoir été nommé seigneur de Minas Morgul, et Gothmog sont envoyés pour diriger les armées dans un siège contre les peuples libres, leur accordant de nouvelles capacités \n Ne peut être activé que si "Menace de l'Est" ou "Appel du pays noir" n'est pas actif \ n Clique gauche pour activer "
 END
 
 CONTROLBAR:PurchaseUpgradeMordorFortressDoomPyres
@@ -61679,7 +61679,7 @@ CONTROLBAR:ConstructEasterlingKataphraktHorde
 END
 
 CONTROLBAR:ToolTipBuildEasterlingKataphraktHorde
-"Requires: Khamûl with Lieutenant's Insignia \n Unit Type: Elite Cavalry \n Strong vs: Archer and Cavalry \n You can only train three battalions"
+"Nécéssite: Khamûl avec Lieutenant des nazguls \n Unit Type: Cavalrie d'élite\n Fort vs Archers et Cavalrie \n Vous ne pouvez entraîner que trois bataillons en même temps"
 END
 
 BANNERUI:EasterlingKataphrakt
@@ -95160,44 +95160,44 @@ CONTROLBAR:BuildThargelionChariot
 END
 
 CONTROLBAR:ToolTipThargelionChariot
-"Requires: Khamûl with Lieutenant's Insignia\n Strong Fierce Machines \n Strong vs Infantry, Weak vs Spears"
+"Nécessite: Khamûl avec Insigne lieutenant des Nazguls\n Machines puissantes et féroces \n Fort vs Infanterie, fragile vs lances"
 END
 
 //------------ Morgul Vangard ---------------
 OBJECT:MordorVangaurd
-"Morgul Vanguard"
+"Avant garde d'élite de Morgul"
 END
 
 OBJECT:HordeMordorVangaurd
-"Morgul Vanguard"
+"Avant garde d'élite de Morgul"
 END
 
 CONTROLBAR:ConstructMordorVangaurdHorde
-"Morgul &Vanguard"
+"Avant garde d'élite de Morgul"
 END
 
 CONTROLBAR:LW_Unit_MordorVangaurdHorde
-"Morgul Vanguard"
+"Avant garde d'élite de Morgul"
 END
 
 CONTROLBAR:LW_ToolTip_MordorVangaurdHorde
-"Unit Type: Heroic Cavalry\nStrong vs. Infantry and Heroes\n You can only train one Vanguard"
+"Type d'unitées: Cavalerie héroïque \n Forte vs Infanterie et héros\n Vous ne pouvez entraîner qu'une seule Avant garde"
 END
 
 CONTROLBAR:ToolTipBuildMordorVangaurdHorde
-"Unit Type: Heroic Cavalry\nStrong vs. Infantry and Heroes \n You can only train one Vanguard\n \n These soulless men have long served the Witch-king as his personal bodyguard and the vanguard of his legions."
+"Type d'unitées: Cavalerie héroïque \n Forte vs Infanterie et héros\n Vous ne pouvez entraîner qu'une seule Avant garde \n \n Ces hommes sans âme ont longtemps servi le roi-sorcier en tant que garde du corps personnel et avant-garde de ses légions."
 END
 
 CONTROLBAR:LW_ToolTipBuild_MordorVangaurdHorde
-"Unit Type: Heroic Cavalry\nStrong vs. Infantry and Heroes \n You can only train one Vanguard\n \n These soulless men have long served the Witch-king as his personal bodyguard and the vanguard of his legions."
+"Type d'unitées: Cavalerie héroïque \n Forte vs Infanterie et héros\n Vous ne pouvez entraîner qu'une seule Avant garde\n \n Ces hommes sans âme ont longtemps servi le roi-sorcier en tant que garde du corps personnel et avant-garde de ses légions."
 END
 
 CONTROLBAR:DreadVisageVanguard
-"Morgul Influence"
+"Influence de Morgul"
 END
 
 CONTROLBAR:ToolTipDreadVisageVanguard
-//"Requires Level 2\nReduces enemy armor and damage\nPassive ability"
+//"Requires Level 2\n Reduces enemy armor and damage\nPassive ability"
 "Requires Level 2 \n Modifier Type: Passive Debuff \n Nearby enemy units suffer -25% damage and -20% armor \n Does not stack with other debuffs \nPassive ability"
 END
 
